@@ -35,6 +35,7 @@ agent_created: true
 | 推荐流直玩、直播、小游戏站、PC、鸿蒙 | `references/live-platform.md` |
 | 礼包/兑换码、手势识别、URL Link、添加到桌面 | `references/capability-extra.md` |
 | 启动慢、包体大、掉帧、发热、内存 | `references/performance.md` |
+| 代码没写错但就是不工作（音频回调、视频、输入框、Label、重启、时间精度） | `references/engine-quirks.md` |
 | 代码加固、必接能力、资质备案、审核红线 | `references/security-release.md` |
 | 服务端 API、access_token、code2session、支付回调 | `references/server.md` |
 | 开发者工具、调试、彩蛋页、代码保护配置 | `references/devtools.md` |
@@ -45,7 +46,7 @@ agent_created: true
 
 ### 查 API 别整份读索引
 
-`api-index.md` 有 500 多行，整份读约 1.2 万 token。绝大多数情况只需要一行：
+`api-index.md` 有 526 行、约 3.4 万字符（粗估 **1.5 万 token**）。绝大多数情况只需要一行：
 
 ```bash
 grep "tt.createRewardedVideoAd" references/api-index.md
@@ -60,6 +61,7 @@ grep "tt.createRewardedVideoAd" references/api-index.md
 3. **平台差异要点明**。iOS / Android / PC / 鸿蒙 行为不完全一致（广告的 onShow/onHide、PC 仅钻石支付、鸿蒙部分 API 缺失）。
 4. **金额与结算只在服务端**。客户端不做任何结算、发币、签名逻辑；AppSecret 绝不进客户端。
 5. **不引用第三方教程**。答案只基于本技能的 references 与 docs 原文。
+6. **引擎行为以源码为准**。「Cocos 在抖音上怎么表现」这类问题，先查 `references/engine-quirks.md` 与 `references/cocos-publish.md` 的「引擎适配层」一节——那里是工作区 `cocos-engine-3.8.6/` 源码核实过的结论（带 `file:line`），优先级高于通用 Cocos 知识。
 
 ## 关键事实速览
 
@@ -67,7 +69,7 @@ grep "tt.createRewardedVideoAd" references/api-index.md
 |---|---|
 | 运行环境 | 只有 JS，无 DOM/BOM，画布走 `tt.createCanvas()` |
 | 三个必需文件 | `game.js` / `game.json` / `project.config.json` |
-| 屏幕方向默认值 | **`landscape`**，竖屏游戏必须显式写 `portrait` |
+| 屏幕方向默认值 | 平台默认 **`landscape`**（`game.json` 不写该字段时）；但 Cocos 产物永远显式写值，模板默认 `portrait`，Cocos 用户按构建面板「设备方向」走即可 |
 | 首包大小限制 | 用分包 4MB / 不用分包 20MB |
 | 广告形态 | 激励视频、Banner、插屏、游戏推荐组件 |
 | 必接能力 | 侧边栏复访（全部）、客服（内购）、敏感词（有输入） |

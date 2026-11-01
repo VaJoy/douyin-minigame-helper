@@ -98,3 +98,38 @@ tt.joinGroup({
 - 主域与子域通过 `postMessage` 单向传消息，子域绘制结果通过共享 canvas（`tt.getSharedCanvas`）回传给主域贴图。
 - 子域代码要单独打包，在 `game.json` 里用 `openDataContext` 指定目录。
 - **Cocos 项目**只需要在节点上挂 `SubContextView` 组件，构建时勾「生成开放数据域工程模板」，模板与定制方式见 `cocos-publish.md`。
+
+### 子域收到的第一条消息是引擎发的
+
+挂上 `SubContextView` 后，子域的 `onMessage` 会收到形如这样的消息（`cocos-engine-3.8.6/cocos/ui/sub-context-view.ts:222-230`）：
+
+```js
+const viewportMsg = {
+  fromEngine: true,
+  type: 'engine',
+  event: 'viewport',
+  x: 0, y: 0, width: 0, height: 0,   // 视窗矩形，已除过 dpr
+};
+```
+
+规则：
+
+- **什么时候发**：组件 `onLoad` 时发一次；之后组件节点的位移、缩放、尺寸变化都会再发一次（`sub-context-view.ts:252-256` 监听 `TRANSFORM_CHANGED` / `SIZE_CHANGED`）。
+- **官方模板只处理这一种消息**：收到 `type === 'engine' && event === 'viewport'` 就更新视窗并重画（`platforms/minigame/openDataContext/index.js`）。
+- **不要把 `type === 'engine'` 的消息全部过滤掉。** 很多人照抄过滤逻辑只留业务消息，结果排行榜在旋转屏幕、改分辨率、拖拽容器后**不再重绘**，画面停在旧视窗尺寸上。正确做法是：认 `viewport` 就重画，其他 `engine` 消息忽略。
+- 主域发业务消息时自己带 `type`，并**避免用 `'engine'`**，双方约定私有前缀（如 `'rank'`、`'ui'`）。
+
+### 组件会静默失效，不报错
+
+```
+sub-context-view.ts:126-135
+```
+
+`minigame.getOpenDataContext` 不存在时，组件直接把自己 `enabled = false`。现象是「场景里挂着 SubContextView，运行时一片空白，控制台干净」。开发者工具正常、个别老宿主空白时优先查这里。
+
+### 分辨率与刷新频率
+
+- `sharedCanvas` 的尺寸直接取组件的「设计分辨率」，默认 **640 × 960**（`sub-context-view.ts:116-117`、`:163-164`）。子域里 CSS 的宽高不要超过它，否则内容溢出画布。
+- 微信有「共享画布至少一边大于 513 否则不出图」的补丁，**抖音没有这个分支**（`sub-context-view.ts:151-162` 只在微信平台生效），小尺寸画布在抖音上是安全的。
+- 组件的 `fps`（默认 60）只节流「把 sharedCanvas 上传成纹理」这一步（`sub-context-view.ts:268-280`），**不节流子域自己的重绘**。子域每帧重画的话主域这边一点都省不下来，节流要在子域里自己做。
+- 子域内容节点的 layer 跟随组件所在节点（`sub-context-view.ts:255`、`:264-266`）。要控制这层排行榜的渲染层级，请改 `SubContextView` 所在节点的 layer，不要改内部的 content 节点。

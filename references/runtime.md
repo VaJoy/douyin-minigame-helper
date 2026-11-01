@@ -25,6 +25,17 @@ const ctx = canvas.getContext('2d');
 
 `tt.onTouchStart` / `onTouchMove` / `onTouchEnd` / `onTouchCancel`，坐标系以逻辑分辨率计。多点触控通过事件里的 `touches` 数组拿。
 
+### 时间与可见性：两个被替换掉的浏览器能力
+
+Cocos 的抖音兼容层把这两样改写了，写计时、限流、暂停逻辑时必须知道：
+
+| 事实 | 证据 | 影响 |
+|---|---|---|
+| `performance.now()` 就是 `Date.now()` | `platforms/minigame/platforms/bytedance/wrapper/builtin/WindowProperties.js:15-17` | 时间精度只有 **1ms**，没有亚毫秒。做帧耗时统计、节流器、动画插值时，别用「小于 1ms 的差值」当判据，也别假设 `now()` 单调递增（`Date.now` 会受系统时间调整影响） |
+| `document.visibilityState` 恒为 `'visible'`，`document.hidden` 恒为 `false` | `platforms/minigame/platforms/bytedance/wrapper/builtin/document.js:13-15` | 依赖 `visibilitychange` 或 `document.hidden` 的暂停/恢复逻辑在抖音上**永远不触发**。切后台只能靠 `tt.onHide` / `tt.onShow`，或引擎的 `game.on(Game.EVENT_HIDE/EVENT_SHOW)` |
+
+游戏主循环的时间基准仍以引擎给的 `dt` 为准（`game.deltaTime` / 组件的 `update(dt)`），不要自己用 `performance.now()` 攒时间。
+
 ## 模块化
 
 采用 **CommonJS** 规范，和 Node 一致：
@@ -111,6 +122,8 @@ const txt = fs.readFileSync(`${tt.env.USER_DATA_PATH}/save.json`, 'utf8');
 - 临时文件目录用于下载缓存，系统会在需要时清理。
 - 大文件（>10MB）用分片写，`writeFileSync` 一次性写会卡主线程。
 - **存储（`tt.setStorageSync`）和文件系统是两套东西**：存储有配额限制、适合小 KV；文件系统适合大对象和二进制资源。
+- 如果你在代码里用 `localStorage`（或 `sys.localStorage`）：原生环境并没有它（见上文），是 **Cocos 的兼容层注入了一个垫片**（`platforms/minigame/platforms/bytedance/wrapper/builtin/localStorage.js:14-29`），底层转调存储接口。所以能用，但语义不同：**`getItem` 对不存在的 key 返回空字符串 `''`，不是 `null`**。`if (localStorage.getItem(k) === null)` 这类判断在抖音上永远不成立，存档版本迁移、首次进入检测很容易在这里静默出错——判空请用 `if (!v)` 或 `=== ''`。
+- **引擎不会替你把临时文件转成持久文件。** `platforms/minigame/platforms/bytedance/wrapper/fs-utils.js:88-100` 里定义了个 `saveFile()`，它调的是宿主**顶层**的 `saveFile` 接口——这个接口平台文档里没有（文档只提供 `FileSystemManager.saveFile` / `saveFileSync`），而且**全引擎没有任何调用点**，属于死代码；支付宝/淘宝的同名实现甚至直接换成 `copyFile`，源码注释里写着 `my.saveFile` 不可用。所以别照着它写：`tt.downloadFile` 下来的文件在临时目录、会被系统清理，想长期保留必须自己 `tt.getFileSystemManager().saveFileSync(tempFilePath, userPath)`。
 
 ## 调试手段
 

@@ -44,6 +44,22 @@
 - **发热**：降帧（30fps 模式）、降分辨率、减少透明叠加与全屏后处理。
 - **内存**：纹理压缩、及时 `destroy` 不再使用的资源、监听 `tt.onMemoryWarning` 主动释放。
 
+### 降帧要真的降下去
+
+`game.frameRate = 30` 不是「逻辑上少调几次 update」，它会一路传到宿主：
+
+```
+cocos/game/game.ts:416-426            // set frameRate → this._pacer.targetFrameRate
+pal/pacer/pacer-minigame.ts:50-60     // set targetFrameRate → minigame.setPreferredFramesPerSecond(...)
+```
+
+也就是说宿主会把 `requestAnimationFrame` 真的降到 30Hz，省电省热，而不是「仍然 60 次回调、只算一半」。低端机上这是性价比最高的一档开关，配合 `deviceScore` 做分档（见下节）。
+
+两个细节：
+
+- **运行中改帧率会重启 rAF 循环**（`pacer-minigame.ts:55-58` 里 `stop()` 再 `start()`），所以别在每帧或频繁变化的场景里反复赋值，会白掉帧。要改就在切场景、切画质档这种一次性时机改。
+- 把它设成 120 之类的值，在没有高刷屏的设备上没有任何效果——`frameRate` 只表示**期望值**。
+
 ## 高性能模式（iOS 专项）
 
 iOS 没有 JIT，性能一直是短板。高性能模式让小游戏跑在浏览器内核里、拿到 JIT 能力，官方内测数据：**80 分位 FPS 平均提升 69%**（32.53 → 54.98）。CPU 压力越大的游戏收益越明显。
@@ -62,6 +78,24 @@ iOS 没有 JIT，性能一直是短板。高性能模式让小游戏跑在浏览
 - **局域网预览不支持**高性能模式，预览时别勾「开启局域网快速预览」。
 - 判断是否生效：`GameGlobal.isIOSHighPerformanceMode === true`（普通模式是 `undefined`）；或看 vConsole 颜色——绿色=普通，蓝色=高性能。
 - 高性能模式下跑在浏览器内核里，**兼容性、内存、稳定性都要重新测**，不能复用普通模式的测试结论。
+
+### 它提速的是你的 JS，不是引擎的生命周期调度
+
+这条很容易误解，单独说清楚：Cocos 有两条生命周期调用路径，用构建期常量 `SUPPORT_JIT` 二选一——`true` 走 `new Function` 编译出的直调函数，`false` 走普通调用（`cocos/scene-graph/component-scheduler.ts:274-304`、`cocos/scene-graph/node-activator.ts:66-76`）。
+
+而 `SUPPORT_JIT` 的取值是：
+
+```
+!(($PREVIEW && !$NATIVE) || $MINIGAME || $RUNTIME_BASED || $OPEN_HARMONY)
+```
+
+——`cc.config.json:699-703`。**只要是小游戏，`SUPPORT_JIT` 恒为 `false`**，抖音也一样。
+
+推论：
+
+- 高性能模式带来的是宿主 JS 引擎的 JIT 能力（你的业务代码跑得快），**不会**把引擎的 `onLoad/update` 调度切回 JIT 路径，因为那是**打包时就定死**的常量，运行时无法翻转。
+- 所以「开了高性能模式」≠「引擎开销也降了」。低端机上真正压帧的往往是组件数量与 `update` 调用次数本身，这两项要另外优化。
+- 想在代码里判断，直接 `import { SUPPORT_JIT } from 'cc/env'`，在抖音构建里它永远是 `false`，别写成运行时开关。
 
 ### 代价是内存更紧
 
@@ -89,6 +123,17 @@ iOS 没有 JIT，性能一直是短板。高性能模式让小游戏跑在浏览
 | 脚本 | 业务代码 + 配置表，只能自己精简 |
 
 TTF 渲染文本会创建 Canvas 对象并进缓存池，字号越多池越大，引擎不回收——字重多的游戏优先换 Bitmap 字体。对象池要设上限，别无限创建。
+
+### 内存告警别监听错对象
+
+`game.on(Game.EVENT_LOW_MEMORY, ...)` 在抖音上**永远不会回调**。这个事件全引擎只有一个 emit 点，在原生平台：
+
+```
+cocos/game/game.ts:224                    // 事件定义
+platforms/native/engine/jsb-game.js:38    // 唯一的 emit
+```
+
+小游戏上只能自己听 `tt.onMemoryWarning`（`res.level` 仅 Android 提供），收到后主动释放贴图缓存、音频实例、临时对象，不要等系统杀进程。见 `runtime.md`。
 
 ### 诊断工具
 
