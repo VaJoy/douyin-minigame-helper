@@ -82,6 +82,7 @@ task.onProgressUpdate((res) => console.log(res.progress)); // 0-100
 - `tt.loadSubpackage` 返回 `LoadSubpackageTask`，可以拿进度做 loading 条。
 - 分包里的资源路径是相对分包根的，跨包引用要在主包里留索引。
 - 分包不是「懒加载一切」的银弹：主包仍要放引擎核心与首场景，否则启动会二次等待。
+- **用 Cocos 的话不用手写这段配置**：在资源管理器把文件夹「配置为 Bundle」、压缩类型选「小游戏分包」，构建时会自动生成 `subPackages`。配置步骤与体积限制见 `cocos-publish.md`。
 
 ## 灰度
 

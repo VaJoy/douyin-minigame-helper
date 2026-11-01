@@ -66,9 +66,14 @@
 npm install @douyin-minigame/api-typings
 ```
 
+`tsconfig.json` 里加：
+
 ```json
-// tsconfig.json
-{ "compilerOptions": { "types": ["@douyin-minigame/api-typings"] } }
+{
+  "compilerOptions": {
+    "types": ["@douyin-minigame/api-typings"]
+  }
+}
 ```
 
 也可以 `import '@douyin-minigame/api-typings';` 或三斜杠引用。**类型声明与文档站冲突时以文档为准**（官方明确这么说，类型包偶尔滞后）。

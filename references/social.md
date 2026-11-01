@@ -97,3 +97,4 @@ tt.joinGroup({
 - 是一个独立的 JS 运行环境，只能访问 `tt.getUserCloudStorage` 等少数接口，用于展示好友排行榜、群排行。
 - 主域与子域通过 `postMessage` 单向传消息，子域绘制结果通过共享 canvas（`tt.getSharedCanvas`）回传给主域贴图。
 - 子域代码要单独打包，在 `game.json` 里用 `openDataContext` 指定目录。
+- **Cocos 项目**只需要在节点上挂 `SubContextView` 组件，构建时勾「生成开放数据域工程模板」，模板与定制方式见 `cocos-publish.md`。

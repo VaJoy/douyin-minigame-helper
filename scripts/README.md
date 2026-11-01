@@ -94,7 +94,8 @@ python3 scripts/check_refs.py
 扫描 `SKILL.md`、`references/*.md`、`examples/*.js`，检查：
 
 - 每个 `tt.xxx` 是否能被 docs 原文或 API 索引印证；
-- 每个 `references/...`、`examples/...` 路径是否存在。
+- 每个 `references/...`、`examples/...` 路径是否存在；
+- 代码块是否可用：`json` 块必须能被 `json.loads` 解析，`js` 块过 `node --check`（没装 node 就跳过）。
 
 ## 已知的站点坑（改脚本前先看）
 

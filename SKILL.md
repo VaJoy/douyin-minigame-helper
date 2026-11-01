@@ -23,6 +23,7 @@ agent_created: true
 | 用户问的是 | 读这个 |
 |---|---|
 | 从零跑通、导出、真机预览 | `references/quickstart.md` |
+| Cocos 构建面板、分包配置、开放数据域、发抖音包 | `references/cocos-publish.md` |
 | `game.json` / `project.config.json` / 分包 / 版本兼容 | `references/config.md` |
 | 没有 DOM、模块化、生命周期、Worker、文件系统 | `references/runtime.md` |
 | 某个 `tt.xxx` 存不存在、什么版本、要不要授权 | `references/api-index.md`（**先 grep 再读**，见下） |
