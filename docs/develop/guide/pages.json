@@ -1,0 +1,2155 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/dev-guide/bytedance-mini-game",
+  "chapter_title": "开发",
+  "page_count": 208,
+  "pages": [
+    {
+      "title": "开发指南",
+      "path": "/zh-CN/mini-game/develop/guide/dev-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/dev-guide",
+      "group": [
+        "开发指南"
+      ]
+    },
+    {
+      "title": "开发指南",
+      "path": "/zh-CN/mini-game/develop/guide/dev-guide/bytedance-mini-game",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/dev-guide/bytedance-mini-game",
+      "group": [
+        "开发指南",
+        "开发指南"
+      ]
+    },
+    {
+      "title": "新手教程",
+      "path": "/zh-CN/mini-game/develop/guide/dev-guide/newbie-tutorial",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/dev-guide/newbie-tutorial",
+      "group": [
+        "开发指南",
+        "新手教程"
+      ]
+    },
+    {
+      "title": "进阶指南",
+      "path": "/zh-CN/mini-game/develop/guide/dev-guide/study-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/dev-guide/study-guide",
+      "group": [
+        "开发指南",
+        "进阶指南"
+      ]
+    },
+    {
+      "title": "游戏引擎",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine",
+      "group": [
+        "游戏引擎"
+      ]
+    },
+    {
+      "title": "小游戏平台引擎适配说明",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/engine-adaptation-instructions",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/engine-adaptation-instructions",
+      "group": [
+        "游戏引擎",
+        "小游戏平台引擎适配说明"
+      ]
+    },
+    {
+      "title": "Unity 引擎适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配"
+      ]
+    },
+    {
+      "title": "基本",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本"
+      ]
+    },
+    {
+      "title": "安装与接入",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入"
+      ]
+    },
+    {
+      "title": "Unity 小游戏接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/sc_access_guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/sc_access_guide",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "Unity 小游戏接入指南"
+      ]
+    },
+    {
+      "title": "Unity包体格式更新",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/unity-new",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/unity-new",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "Unity包体格式更新"
+      ]
+    },
+    {
+      "title": "接入方案及引擎选择建议",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "接入方案及引擎选择建议"
+      ]
+    },
+    {
+      "title": "WebGL方案接入流程",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_webgl_access_flow",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_webgl_access_flow",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "接入方案及引擎选择建议",
+        "WebGL方案接入流程"
+      ]
+    },
+    {
+      "title": "使用方案及引擎选择建议",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_engine_selection_suggestion",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_engine_selection_suggestion",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "接入方案及引擎选择建议",
+        "使用方案及引擎选择建议"
+      ]
+    },
+    {
+      "title": "WebGL方案兼容性评估",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_webgl_compatibility",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_webgl_compatibility",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "接入方案及引擎选择建议",
+        "WebGL方案兼容性评估"
+      ]
+    },
+    {
+      "title": "推荐的引擎版本",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_webgl_recommended_engine_version",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_webgl_recommended_engine_version",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "接入方案及引擎选择建议",
+        "推荐的引擎版本"
+      ]
+    },
+    {
+      "title": "名词解释",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_noun_interpretation",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/access-engine-advice/sc_noun_interpretation",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "接入方案及引擎选择建议",
+        "名词解释"
+      ]
+    },
+    {
+      "title": "安装 TTSDK",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/install-sdk",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/install-sdk",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "安装 TTSDK"
+      ]
+    },
+    {
+      "title": "目录说明与缓存策略",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/sc_path_and_cache",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/sc_path_and_cache",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "目录说明与缓存策略"
+      ]
+    },
+    {
+      "title": "FAQ",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/sc_faq",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/sc_faq",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "FAQ"
+      ]
+    },
+    {
+      "title": "旧版StarkSDK迁移指南",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "旧版StarkSDK迁移指南"
+      ]
+    },
+    {
+      "title": "旧版 StarkSdk API 迁移 TTSDK API",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide/starksdk-migration-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide/starksdk-migration-guide",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "旧版StarkSDK迁移指南",
+        "旧版 StarkSdk API 迁移 TTSDK API"
+      ]
+    },
+    {
+      "title": "TTSDK API 升级工具使用说明",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide/ttsdk-api-upgrade-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide/ttsdk-api-upgrade-guide",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "旧版StarkSDK迁移指南",
+        "TTSDK API 升级工具使用说明"
+      ]
+    },
+    {
+      "title": "C# SDK 接口文档",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide/sc_stark_sdk",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide/sc_stark_sdk",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "旧版StarkSDK迁移指南",
+        "C# SDK 接口文档"
+      ]
+    },
+    {
+      "title": "抖音云C#接口文档",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide/dycloud-csharp-interface",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/install-connect/starksdkmigrationguide/dycloud-csharp-interface",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "安装与接入",
+        "旧版StarkSDK迁移指南",
+        "抖音云C#接口文档"
+      ]
+    },
+    {
+      "title": "打包与发布",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布"
+      ]
+    },
+    {
+      "title": "发布",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/sc_publish",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/sc_publish",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "发布"
+      ]
+    },
+    {
+      "title": "构建与调试",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/sc_build",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/sc_build",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "构建与调试"
+      ]
+    },
+    {
+      "title": "StarkBuilderSetting.asset 配置文件说明",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/starkbuildersetting-asset-doc",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/starkbuildersetting-asset-doc",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "StarkBuilderSetting.asset 配置文件说明"
+      ]
+    },
+    {
+      "title": "CI自动化",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/ci_openapi",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/ci_openapi",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "CI自动化"
+      ]
+    },
+    {
+      "title": "错误堆栈与异常排查",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/how-to-debug",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/how-to-debug",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "错误堆栈与异常排查"
+      ]
+    },
+    {
+      "title": "版本更新与资源部署",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/changelog-and-resource",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/changelog-and-resource",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "版本更新与资源部署"
+      ]
+    },
+    {
+      "title": "小游戏资源部署与缓存",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/changelog-and-resource/sc_webgl_resource",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/changelog-and-resource/sc_webgl_resource",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "版本更新与资源部署",
+        "小游戏资源部署与缓存"
+      ]
+    },
+    {
+      "title": "小游戏资源缓存",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/changelog-and-resource/sc_webgl_resource_cache",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/changelog-and-resource/sc_webgl_resource_cache",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "版本更新与资源部署",
+        "小游戏资源缓存"
+      ]
+    },
+    {
+      "title": "小游戏版本更新",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/changelog-and-resource/sc_webgl_version_update",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/changelog-and-resource/sc_webgl_version_update",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "版本更新与资源部署",
+        "小游戏版本更新"
+      ]
+    },
+    {
+      "title": "Data CDN功能",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/webgl-data-cdn-tutorial",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/packaging-release/webgl-data-cdn-tutorial",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "打包与发布",
+        "Data CDN功能"
+      ]
+    },
+    {
+      "title": "转换案例",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/conversion-cases",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/conversion-cases",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "转换案例"
+      ]
+    },
+    {
+      "title": "转换案例",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/conversion-cases/sc_translation_case",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/conversion-cases/sc_translation_case",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "转换案例",
+        "转换案例"
+      ]
+    },
+    {
+      "title": "更新记录",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/update-record",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/update-record",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "更新记录"
+      ]
+    },
+    {
+      "title": "C# SDK 发版记录",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/update-record/sc_changelog",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/update-record/sc_changelog",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "基本",
+        "更新记录",
+        "C# SDK 发版记录"
+      ]
+    },
+    {
+      "title": "方案概述与能力适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配"
+      ]
+    },
+    {
+      "title": "WebGL适配方案",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/sc_webgl_overall",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/sc_webgl_overall",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "WebGL适配方案"
+      ]
+    },
+    {
+      "title": "方案概述与兼容性",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/overview-and-compatibility",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/overview-and-compatibility",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "方案概述与兼容性"
+      ]
+    },
+    {
+      "title": "WebGL适配方案概述",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/overview-and-compatibility/sc_webgl_overview",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/overview-and-compatibility/sc_webgl_overview",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "方案概述与兼容性",
+        "WebGL适配方案概述"
+      ]
+    },
+    {
+      "title": "能力适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配"
+      ]
+    },
+    {
+      "title": "Android WebGL2.0支持",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/android-webgl2",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/android-webgl2",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "Android WebGL2.0支持"
+      ]
+    },
+    {
+      "title": "音频适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc-webgl-audio",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc-webgl-audio",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "音频适配"
+      ]
+    },
+    {
+      "title": "多点触控适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc-webgl-touch",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc-webgl-touch",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "多点触控适配"
+      ]
+    },
+    {
+      "title": "加载外部js文件的支持",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_load_js",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_load_js",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "加载外部js文件的支持"
+      ]
+    },
+    {
+      "title": "使用新文件系统说明",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_new_file_system",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_new_file_system",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "使用新文件系统说明"
+      ]
+    },
+    {
+      "title": "屏幕适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_screen",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_screen",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "屏幕适配"
+      ]
+    },
+    {
+      "title": "键盘输入法适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_keyboard",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_keyboard",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "键盘输入法适配"
+      ]
+    },
+    {
+      "title": "后端服务指引",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_server_guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_server_guide",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "后端服务指引"
+      ]
+    },
+    {
+      "title": "网络通信适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_network",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/sc_webgl_network",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "网络通信适配"
+      ]
+    },
+    {
+      "title": "视频适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/video-adapt",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/capability-adaptation/video-adapt",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "方案概述与能力适配",
+        "能力适配",
+        "视频适配"
+      ]
+    },
+    {
+      "title": "问题反馈",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/problem-feedback",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/problem-feedback",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "问题反馈"
+      ]
+    },
+    {
+      "title": "问题反馈与联系我们",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/problem-feedback/sc_feedback",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/problem-feedback/sc_feedback",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "问题反馈",
+        "问题反馈与联系我们"
+      ]
+    },
+    {
+      "title": "BGDT 手册",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/BGDT-handbook",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/BGDT-handbook",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "BGDT 手册"
+      ]
+    },
+    {
+      "title": "安装",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/BGDT-handbook/install",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/BGDT-handbook/install",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "BGDT 手册",
+        "安装"
+      ]
+    },
+    {
+      "title": "使用",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/BGDT-handbook/apply",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/BGDT-handbook/apply",
+      "group": [
+        "游戏引擎",
+        "Unity 引擎适配",
+        "BGDT 手册",
+        "使用"
+      ]
+    },
+    {
+      "title": "Cocos/Laya/Egret引擎适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/cocos-laya-egret",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/cocos-laya-egret",
+      "group": [
+        "游戏引擎",
+        "Cocos/Laya/Egret引擎适配"
+      ]
+    },
+    {
+      "title": "Godot引擎适配",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/godot",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/godot",
+      "group": [
+        "游戏引擎",
+        "Godot引擎适配"
+      ]
+    },
+    {
+      "title": "接入指引",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/godot/godot-engine-integration-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/godot/godot-engine-integration-guide",
+      "group": [
+        "游戏引擎",
+        "Godot引擎适配",
+        "接入指引"
+      ]
+    },
+    {
+      "title": "SDK使用说明",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/godot/sdk-usage-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/godot/sdk-usage-guide",
+      "group": [
+        "游戏引擎",
+        "Godot引擎适配",
+        "SDK使用说明"
+      ]
+    },
+    {
+      "title": "适配清单",
+      "path": "/zh-CN/mini-game/develop/guide/game-engine/godot/adaptation-checklist",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/godot/adaptation-checklist",
+      "group": [
+        "游戏引擎",
+        "Godot引擎适配",
+        "适配清单"
+      ]
+    },
+    {
+      "title": "基础能力",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function",
+      "group": [
+        "基础能力"
+      ]
+    },
+    {
+      "title": "网络请求",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/network",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/network",
+      "group": [
+        "基础能力",
+        "网络请求"
+      ]
+    },
+    {
+      "title": "代码包",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/subpackages",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/subpackages",
+      "group": [
+        "基础能力",
+        "代码包"
+      ]
+    },
+    {
+      "title": "代码包",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/subpackages/introduction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/subpackages/introduction",
+      "group": [
+        "基础能力",
+        "代码包",
+        "代码包"
+      ]
+    },
+    {
+      "title": "分包加载",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/subpackages/basic",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/subpackages/basic",
+      "group": [
+        "基础能力",
+        "代码包",
+        "分包加载"
+      ]
+    },
+    {
+      "title": "游戏灰度",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/subpackages/game-gray",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/subpackages/game-gray",
+      "group": [
+        "基础能力",
+        "代码包",
+        "游戏灰度"
+      ]
+    },
+    {
+      "title": "小游戏插件",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/game-plugin",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/game-plugin",
+      "group": [
+        "基础能力",
+        "小游戏插件"
+      ]
+    },
+    {
+      "title": "游戏引擎插件",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/game-plugin/game-engine-plugin",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/game-plugin/game-engine-plugin",
+      "group": [
+        "基础能力",
+        "小游戏插件",
+        "游戏引擎插件"
+      ]
+    },
+    {
+      "title": "用户授权",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/authorization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/authorization",
+      "group": [
+        "基础能力",
+        "用户授权"
+      ]
+    },
+    {
+      "title": "渲染",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/render",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/render",
+      "group": [
+        "基础能力",
+        "渲染"
+      ]
+    },
+    {
+      "title": "权限",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/permission",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/permission",
+      "group": [
+        "基础能力",
+        "权限"
+      ]
+    },
+    {
+      "title": "模块化",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/modular",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/modular",
+      "group": [
+        "基础能力",
+        "模块化"
+      ]
+    },
+    {
+      "title": "场景值",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/scene-value",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/scene-value",
+      "group": [
+        "基础能力",
+        "场景值"
+      ]
+    },
+    {
+      "title": "游戏交互",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/game-interaction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/game-interaction",
+      "group": [
+        "基础能力",
+        "游戏交互"
+      ]
+    },
+    {
+      "title": "音频",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/audio",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/audio",
+      "group": [
+        "基础能力",
+        "音频"
+      ]
+    },
+    {
+      "title": "视频",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/video",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/video",
+      "group": [
+        "基础能力",
+        "视频"
+      ]
+    },
+    {
+      "title": "多线程 Worker",
+      "path": "/zh-CN/mini-game/develop/guide/basic-function/multi-thread",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/basic-function/multi-thread",
+      "group": [
+        "基础能力",
+        "多线程 Worker"
+      ]
+    },
+    {
+      "title": "开放能力",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability",
+      "group": [
+        "开放能力"
+      ]
+    },
+    {
+      "title": "推荐流直玩游戏能力",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/feed",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/feed",
+      "group": [
+        "开放能力",
+        "推荐流直玩游戏能力"
+      ]
+    },
+    {
+      "title": "复访版-接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/feed/minigame-feedpush-setting-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/feed/minigame-feedpush-setting-guide",
+      "group": [
+        "开放能力",
+        "推荐流直玩游戏能力",
+        "复访版-接入指南"
+      ]
+    },
+    {
+      "title": "获客版-接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/feed/customer-access-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/feed/customer-access-guide",
+      "group": [
+        "开放能力",
+        "推荐流直玩游戏能力",
+        "获客版-接入指南"
+      ]
+    },
+    {
+      "title": "游戏设计规范",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/feed/game-design-standard",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/feed/game-design-standard",
+      "group": [
+        "开放能力",
+        "推荐流直玩游戏能力",
+        "游戏设计规范"
+      ]
+    },
+    {
+      "title": "常见问题",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/feed/faq",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/feed/faq",
+      "group": [
+        "开放能力",
+        "推荐流直玩游戏能力",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "社交互动能力",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/social-interaction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/social-interaction",
+      "group": [
+        "开放能力",
+        "社交互动能力"
+      ]
+    },
+    {
+      "title": "社交分享能力接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/social-interaction/social-share-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/social-interaction/social-share-guide",
+      "group": [
+        "开放能力",
+        "社交互动能力",
+        "社交分享能力接入指南"
+      ]
+    },
+    {
+      "title": "分享组队接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/social-interaction/share-team-access-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/social-interaction/share-team-access-guide",
+      "group": [
+        "开放能力",
+        "社交互动能力",
+        "分享组队接入指南"
+      ]
+    },
+    {
+      "title": "群标签能力接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/social-interaction/group-label-access-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/social-interaction/group-label-access-guide",
+      "group": [
+        "开放能力",
+        "社交互动能力",
+        "群标签能力接入指南"
+      ]
+    },
+    {
+      "title": "官方群能力接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/social-interaction/official-group-capability-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/social-interaction/official-group-capability-guide",
+      "group": [
+        "开放能力",
+        "社交互动能力",
+        "官方群能力接入指南"
+      ]
+    },
+    {
+      "title": "公会群能力接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/social-interaction/union-group-access-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/social-interaction/union-group-access-guide",
+      "group": [
+        "开放能力",
+        "社交互动能力",
+        "公会群能力接入指南"
+      ]
+    },
+    {
+      "title": "小游戏站",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/mini-game-station",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/mini-game-station",
+      "group": [
+        "开放能力",
+        "小游戏站"
+      ]
+    },
+    {
+      "title": "小游戏tt.navigateToMiniProgram接入",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/mini-game-station/tt-minigame-access",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/mini-game-station/tt-minigame-access",
+      "group": [
+        "开放能力",
+        "小游戏站",
+        "小游戏tt.navigateToMiniProgram接入"
+      ]
+    },
+    {
+      "title": "「小游戏站」能力接入指引",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/mini-game-station/game-station-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/mini-game-station/game-station-guide",
+      "group": [
+        "开放能力",
+        "小游戏站",
+        "「小游戏站」能力接入指引"
+      ]
+    },
+    {
+      "title": "鸿蒙端小游戏",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/harmony",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/harmony",
+      "group": [
+        "开放能力",
+        "鸿蒙端小游戏"
+      ]
+    },
+    {
+      "title": "鸿蒙端抖音小游戏适配指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/harmony/harmony-compatibility",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/harmony/harmony-compatibility",
+      "group": [
+        "开放能力",
+        "鸿蒙端小游戏",
+        "鸿蒙端抖音小游戏适配指南"
+      ]
+    },
+    {
+      "title": "PC 端小游戏",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/pc-game",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/pc-game",
+      "group": [
+        "开放能力",
+        "PC 端小游戏"
+      ]
+    },
+    {
+      "title": "PC 直播伴侣小游戏接入指\u0000南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/pc-game/tutorial",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/pc-game/tutorial",
+      "group": [
+        "开放能力",
+        "PC 端小游戏",
+        "PC 直播伴侣小游戏接入指\u0000南"
+      ]
+    },
+    {
+      "title": "PC端小游戏性能优化",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/pc-game/pc-games-optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/pc-game/pc-games-optimization",
+      "group": [
+        "开放能力",
+        "PC 端小游戏",
+        "PC端小游戏性能优化"
+      ]
+    },
+    {
+      "title": "PC 抖音小游戏接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/pc-game/game-tutorial",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/pc-game/game-tutorial",
+      "group": [
+        "开放能力",
+        "PC 端小游戏",
+        "PC 抖音小游戏接入指南"
+      ]
+    },
+    {
+      "title": "开放数据域基础能力",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/open-data-base",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/open-data-base",
+      "group": [
+        "开放能力",
+        "开放数据域基础能力"
+      ]
+    },
+    {
+      "title": "商业化激励再得能力介绍",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/rewardagainintroduce",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/rewardagainintroduce",
+      "group": [
+        "开放能力",
+        "商业化激励再得能力介绍"
+      ]
+    },
+    {
+      "title": "「必接」侧边栏复访能力技术指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/Introduction-for-tech",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/Introduction-for-tech",
+      "group": [
+        "开放能力",
+        "「必接」侧边栏复访能力技术指南"
+      ]
+    },
+    {
+      "title": "游戏排行榜功能介绍",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/ImRankIntroduce",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/ImRankIntroduce",
+      "group": [
+        "开放能力",
+        "游戏排行榜功能介绍"
+      ]
+    },
+    {
+      "title": "游戏推荐组件能力介绍",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/Gamerecommend",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/Gamerecommend",
+      "group": [
+        "开放能力",
+        "游戏推荐组件能力介绍"
+      ]
+    },
+    {
+      "title": "订阅消息能力介绍",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/introduce",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/introduce",
+      "group": [
+        "开放能力",
+        "订阅消息能力介绍"
+      ]
+    },
+    {
+      "title": "游戏群聊能力接入介绍",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/groupchatintroduce",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/groupchatintroduce",
+      "group": [
+        "开放能力",
+        "游戏群聊能力接入介绍"
+      ]
+    },
+    {
+      "title": "关注抖音号能力介绍",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/followintroduce",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/followintroduce",
+      "group": [
+        "开放能力",
+        "关注抖音号能力介绍"
+      ]
+    },
+    {
+      "title": "多端支持",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/using-restriction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/using-restriction",
+      "group": [
+        "开放能力",
+        "多端支持"
+      ]
+    },
+    {
+      "title": "游戏礼包",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/gift-bag",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/gift-bag",
+      "group": [
+        "开放能力",
+        "游戏礼包"
+      ]
+    },
+    {
+      "title": "游戏礼包能力接入指引概览",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/gift-bag/game-gift-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/gift-bag/game-gift-guide",
+      "group": [
+        "开放能力",
+        "游戏礼包",
+        "游戏礼包能力接入指引概览"
+      ]
+    },
+    {
+      "title": "直播福袋礼包接入指引",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/gift-bag/game-gift-lottery-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/gift-bag/game-gift-lottery-guide",
+      "group": [
+        "开放能力",
+        "游戏礼包",
+        "直播福袋礼包接入指引"
+      ]
+    },
+    {
+      "title": "限时付费礼包接入指引",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/gift-bag/game-gift-paid-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/gift-bag/game-gift-paid-guide",
+      "group": [
+        "开放能力",
+        "游戏礼包",
+        "限时付费礼包接入指引"
+      ]
+    },
+    {
+      "title": "游戏站礼包接入指引",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/gift-bag/game-gift-station-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/gift-bag/game-gift-station-guide",
+      "group": [
+        "开放能力",
+        "游戏礼包",
+        "游戏站礼包接入指引"
+      ]
+    },
+    {
+      "title": "礼包道具推送协议",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/gift-bag/gift-prop-push",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/gift-bag/gift-prop-push",
+      "group": [
+        "开放能力",
+        "游戏礼包",
+        "礼包道具推送协议"
+      ]
+    },
+    {
+      "title": "视频拍摄器",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/video-camera",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/video-camera",
+      "group": [
+        "开放能力",
+        "视频拍摄器"
+      ]
+    },
+    {
+      "title": "调起方法",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/video-camera/request-method",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/video-camera/request-method",
+      "group": [
+        "开放能力",
+        "视频拍摄器",
+        "调起方法"
+      ]
+    },
+    {
+      "title": "社交转发裂变",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/social",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/social",
+      "group": [
+        "开放能力",
+        "社交转发裂变"
+      ]
+    },
+    {
+      "title": "分享介绍总览",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/social/all",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/social/all",
+      "group": [
+        "开放能力",
+        "社交转发裂变",
+        "分享介绍总览"
+      ]
+    },
+    {
+      "title": "游戏转发分享",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/game-share",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/game-share",
+      "group": [
+        "开放能力",
+        "游戏转发分享"
+      ]
+    },
+    {
+      "title": "转发",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/game-share/forward",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/game-share/forward",
+      "group": [
+        "开放能力",
+        "游戏转发分享",
+        "转发"
+      ]
+    },
+    {
+      "title": "小游戏组队分享能力",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/game-share/game-team-share",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/game-share/game-team-share",
+      "group": [
+        "开放能力",
+        "游戏转发分享",
+        "小游戏组队分享能力"
+      ]
+    },
+    {
+      "title": "支付",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/payment",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/payment",
+      "group": [
+        "开放能力",
+        "支付"
+      ]
+    },
+    {
+      "title": "能力接入介绍",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/payment/access-process",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/payment/access-process",
+      "group": [
+        "开放能力",
+        "支付",
+        "能力接入介绍"
+      ]
+    },
+    {
+      "title": "小额支付接入指引",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/payment/micropayment-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/payment/micropayment-guide",
+      "group": [
+        "开放能力",
+        "支付",
+        "小额支付接入指引"
+      ]
+    },
+    {
+      "title": "广告",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/ad",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/ad",
+      "group": [
+        "开放能力",
+        "广告"
+      ]
+    },
+    {
+      "title": "Banner广告",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/ad/banner-ad",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/ad/banner-ad",
+      "group": [
+        "开放能力",
+        "广告",
+        "Banner广告"
+      ]
+    },
+    {
+      "title": "插屏广告",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/ad/interstitial-ad",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/ad/interstitial-ad",
+      "group": [
+        "开放能力",
+        "广告",
+        "插屏广告"
+      ]
+    },
+    {
+      "title": "激励视频广告",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/ad/incentive-ads",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/ad/incentive-ads",
+      "group": [
+        "开放能力",
+        "广告",
+        "激励视频广告"
+      ]
+    },
+    {
+      "title": "转发",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/forward",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/forward",
+      "group": [
+        "开放能力",
+        "转发"
+      ]
+    },
+    {
+      "title": "剪映模版",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/forward/capcut-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/forward/capcut-guide",
+      "group": [
+        "开放能力",
+        "转发",
+        "剪映模版"
+      ]
+    },
+    {
+      "title": "视频拍摄器",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/forward/video",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/forward/video",
+      "group": [
+        "开放能力",
+        "转发",
+        "视频拍摄器"
+      ]
+    },
+    {
+      "title": "分享逻辑",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/forward/logic",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/forward/logic",
+      "group": [
+        "开放能力",
+        "转发",
+        "分享逻辑"
+      ]
+    },
+    {
+      "title": "关系链",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/relationship-chain",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/relationship-chain",
+      "group": [
+        "开放能力",
+        "关系链"
+      ]
+    },
+    {
+      "title": "定向分享",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/relationship-chain/directional-share",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/relationship-chain/directional-share",
+      "group": [
+        "开放能力",
+        "关系链",
+        "定向分享"
+      ]
+    },
+    {
+      "title": "公会群能力指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/union-group-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/union-group-guide",
+      "group": [
+        "开放能力",
+        "公会群能力指南"
+      ]
+    },
+    {
+      "title": "用户信息",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/user-info",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/user-info",
+      "group": [
+        "开放能力",
+        "用户信息"
+      ]
+    },
+    {
+      "title": "登录态管理",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/user-info/login-state",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/user-info/login-state",
+      "group": [
+        "开放能力",
+        "用户信息",
+        "登录态管理"
+      ]
+    },
+    {
+      "title": "用户隐私保护",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/user-info/user-privacy",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/user-info/user-privacy",
+      "group": [
+        "开放能力",
+        "用户信息",
+        "用户隐私保护"
+      ]
+    },
+    {
+      "title": "UnionID 机制说明",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/user-info/unionid-intro",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/user-info/unionid-intro",
+      "group": [
+        "开放能力",
+        "用户信息",
+        "UnionID 机制说明"
+      ]
+    },
+    {
+      "title": "用户信息获取",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/user-info/user-info",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/user-info/user-info",
+      "group": [
+        "开放能力",
+        "用户信息",
+        "用户信息获取"
+      ]
+    },
+    {
+      "title": "开放数据校验与解密",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/user-info/open-data-check",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/user-info/open-data-check",
+      "group": [
+        "开放能力",
+        "用户信息",
+        "开放数据校验与解密"
+      ]
+    },
+    {
+      "title": "获取小游戏链接",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/get-app-links",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/get-app-links",
+      "group": [
+        "开放能力",
+        "获取小游戏链接"
+      ]
+    },
+    {
+      "title": "获取 URL Link",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/get-app-links/get-url-link",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/get-app-links/get-url-link",
+      "group": [
+        "开放能力",
+        "获取小游戏链接",
+        "获取 URL Link"
+      ]
+    },
+    {
+      "title": "添加到桌面",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/get-app-links/add-desktop",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/get-app-links/add-desktop",
+      "group": [
+        "开放能力",
+        "获取小游戏链接",
+        "添加到桌面"
+      ]
+    },
+    {
+      "title": "素材管理-录屏素材操作说明",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/recording-materials-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/recording-materials-guide",
+      "group": [
+        "开放能力",
+        "素材管理-录屏素材操作说明"
+      ]
+    },
+    {
+      "title": "直播间即看即玩能力技术指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/instant-play-introduce",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/instant-play-introduce",
+      "group": [
+        "开放能力",
+        "直播间即看即玩能力技术指南"
+      ]
+    },
+    {
+      "title": "敏感数据处理",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/sensitive-data-process",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/sensitive-data-process",
+      "group": [
+        "开放能力",
+        "敏感数据处理"
+      ]
+    },
+    {
+      "title": "实现直播场景扫码切换账号能力接入指南",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/game-live-account-switch",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/game-live-account-switch",
+      "group": [
+        "开放能力",
+        "实现直播场景扫码切换账号能力接入指南"
+      ]
+    },
+    {
+      "title": "AI",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/ai",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/ai",
+      "group": [
+        "开放能力",
+        "AI"
+      ]
+    },
+    {
+      "title": "手势说明",
+      "path": "/zh-CN/mini-game/develop/guide/open-ability/ai/description",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/open-ability/ai/description",
+      "group": [
+        "开放能力",
+        "AI",
+        "手势说明"
+      ]
+    },
+    {
+      "title": "性能优化",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both",
+      "group": [
+        "性能优化"
+      ]
+    },
+    {
+      "title": "Unity 小游戏性能优化",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化"
+      ]
+    },
+    {
+      "title": "性能优化总览",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/performance-optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/performance-optimization",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "性能优化总览"
+      ]
+    },
+    {
+      "title": "性能优化总览",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/performance-optimization/sc_webgl_performance_optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/performance-optimization/sc_webgl_performance_optimization",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "性能优化总览",
+        "性能优化总览"
+      ]
+    },
+    {
+      "title": "Unity小游戏性能评测标准",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/performance-optimization/unity-minigame-scoring-standards",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/performance-optimization/unity-minigame-scoring-standards",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "性能优化总览",
+        "Unity小游戏性能评测标准"
+      ]
+    },
+    {
+      "title": "WebGL方案优化建议",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/performance-optimization/sc_webgl_optimization_suggestion",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/performance-optimization/sc_webgl_optimization_suggestion",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "性能优化总览",
+        "WebGL方案优化建议"
+      ]
+    },
+    {
+      "title": "启动性能",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能"
+      ]
+    },
+    {
+      "title": "WebGL启动流程与时序",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_start_progress",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_start_progress",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "WebGL启动流程与时序"
+      ]
+    },
+    {
+      "title": "提升Unity WebGL游戏启动速度",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_start_speed",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_start_speed",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "提升Unity WebGL游戏启动速度"
+      ]
+    },
+    {
+      "title": "使用 TTAssetBundle 优化内存",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc-webgl-tt-ab",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc-webgl-tt-ab",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "使用 TTAssetBundle 优化内存"
+      ]
+    },
+    {
+      "title": "Unity资源按需加载概述",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_load_overview",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_load_overview",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "Unity资源按需加载概述"
+      ]
+    },
+    {
+      "title": "使用 Addressable 进行资源按需加载",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_aa",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_aa",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "使用 Addressable 进行资源按需加载"
+      ]
+    },
+    {
+      "title": "使用 AssetBundle 进行资源按需加载",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_ab",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_ab",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "使用 AssetBundle 进行资源按需加载"
+      ]
+    },
+    {
+      "title": "使用 AutoStreaming 进行资源按需加载",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/autostreaming-use",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/autostreaming-use",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "使用 AutoStreaming 进行资源按需加载"
+      ]
+    },
+    {
+      "title": "定制启动封面",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_loading_page",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_loading_page",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "定制启动封面"
+      ]
+    },
+    {
+      "title": "Wasm分包工具说明",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_split",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/sc_webgl_split",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "Wasm分包工具说明"
+      ]
+    },
+    {
+      "title": "使用预下载功能",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/use-predownload-feature",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/use-predownload-feature",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "使用预下载功能"
+      ]
+    },
+    {
+      "title": "Unity WebGL 首场景启动优化",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/unity-webgl-optimize",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/unity-webgl-optimize",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "Unity WebGL 首场景启动优化"
+      ]
+    },
+    {
+      "title": "Unity WebGL 抖音系统字体",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/unity-webgl-font",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/startup/unity-webgl-font",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "启动性能",
+        "Unity WebGL 抖音系统字体"
+      ]
+    },
+    {
+      "title": "运行性能",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "运行性能"
+      ]
+    },
+    {
+      "title": "优化Unity WebGL的内存",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/sc_webgl_memory_optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/sc_webgl_memory_optimization",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "运行性能",
+        "优化Unity WebGL的内存"
+      ]
+    },
+    {
+      "title": "开发阶段内存调优",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/dev-memory-tuning",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/dev-memory-tuning",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "运行性能",
+        "开发阶段内存调优"
+      ]
+    },
+    {
+      "title": "Unity WebGL 运行时优化建议",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/sc_webgl_runtime_optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/sc_webgl_runtime_optimization",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "运行性能",
+        "Unity WebGL 运行时优化建议"
+      ]
+    },
+    {
+      "title": "WebGL2.0渲染支持说明",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/sc_webgl_2",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/sc_webgl_2",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "运行性能",
+        "WebGL2.0渲染支持说明"
+      ]
+    },
+    {
+      "title": "优化Unity WebGL的渲染性能",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/sc_webgl_render_optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/sc_webgl_render_optimization",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "运行性能",
+        "优化Unity WebGL的渲染性能"
+      ]
+    },
+    {
+      "title": "iOS Metal 渲染模式",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/ios-metal-render-mode",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/ios-metal-render-mode",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "运行性能",
+        "iOS Metal 渲染模式"
+      ]
+    },
+    {
+      "title": "EmscriptenGLX 渲染模式",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/emscriptenglx",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/unity/running/emscriptenglx",
+      "group": [
+        "性能优化",
+        "Unity 小游戏性能优化",
+        "运行性能",
+        "EmscriptenGLX 渲染模式"
+      ]
+    },
+    {
+      "title": "普通小游戏性能优化",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化"
+      ]
+    },
+    {
+      "title": "性能优化指引",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-optimization-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-optimization-guide",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "性能优化指引"
+      ]
+    },
+    {
+      "title": "设备兼容手册",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/device-compatibility",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/device-compatibility",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "设备兼容手册"
+      ]
+    },
+    {
+      "title": "小游戏性能评测标准",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/game-performance-standard",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/game-performance-standard",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "小游戏性能评测标准"
+      ]
+    },
+    {
+      "title": "性能测试工具",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-testing-tools",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-testing-tools",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "性能测试工具"
+      ]
+    },
+    {
+      "title": "小游戏iOS端内存口径",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/minigameiosmemoryusage",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/minigameiosmemoryusage",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "小游戏iOS端内存口径"
+      ]
+    },
+    {
+      "title": "小游戏 IDE 真机调试能力支持情况",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/game-ide-debug-support",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/game-ide-debug-support",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "小游戏 IDE 真机调试能力支持情况"
+      ]
+    },
+    {
+      "title": "高性能模式",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/high-performance-mode",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/high-performance-mode",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "高性能模式"
+      ]
+    },
+    {
+      "title": "高性能+模式",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/high-performance-plus-mode",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/high-performance-plus-mode",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "高性能+模式"
+      ]
+    },
+    {
+      "title": "启动性能",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/startup-performance",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/startup-performance",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "启动性能"
+      ]
+    },
+    {
+      "title": "启动性能优化指南",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/startup-performance/startup-performance-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/startup-performance/startup-performance-guide",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "启动性能",
+        "启动性能优化指南"
+      ]
+    },
+    {
+      "title": "提升普通小游戏启动速度",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/startup-performance/boost-game-speed",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/startup-performance/boost-game-speed",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "启动性能",
+        "提升普通小游戏启动速度"
+      ]
+    },
+    {
+      "title": "启动场景上报分析",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/startup-performance/startup-scene-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/startup-performance/startup-scene-analysis",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "启动性能",
+        "启动场景上报分析"
+      ]
+    },
+    {
+      "title": "运行性能",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "运行性能"
+      ]
+    },
+    {
+      "title": "运行性能优化指南",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/performance-optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/performance-optimization",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "运行性能",
+        "运行性能优化指南"
+      ]
+    },
+    {
+      "title": "优化普通小游戏内存",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/optimize-game-memory",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/optimize-game-memory",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "运行性能",
+        "优化普通小游戏内存"
+      ]
+    },
+    {
+      "title": "普通小游戏运行时优化建议",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/game-runtime-optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/game-runtime-optimization",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "运行性能",
+        "普通小游戏运行时优化建议"
+      ]
+    },
+    {
+      "title": "小游戏发热优化",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/game-heating-optimize",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/game-heating-optimize",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "运行性能",
+        "小游戏发热优化"
+      ]
+    },
+    {
+      "title": "通过Worker异步计算优化CPU使用",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/worker-async-cpu-optimize",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/runtime-performance/worker-async-cpu-optimize",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "运行性能",
+        "通过Worker异步计算优化CPU使用"
+      ]
+    },
+    {
+      "title": "性能调优工具",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-tuning-tool",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-tuning-tool",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "性能调优工具"
+      ]
+    },
+    {
+      "title": "实时日志能力",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-tuning-tool/real-time-log",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-tuning-tool/real-time-log",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "性能调优工具",
+        "实时日志能力"
+      ]
+    },
+    {
+      "title": "反馈日志能力",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-tuning-tool/feedback-log-capability",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-tuning-tool/feedback-log-capability",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "性能调优工具",
+        "反馈日志能力"
+      ]
+    },
+    {
+      "title": "使用 Unity Profiler 进行性能调优",
+      "path": "/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-tuning-tool/unity-profiler-optimize",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/performance-optimization-both/performance-optimization/performance-tuning-tool/unity-profiler-optimize",
+      "group": [
+        "性能优化",
+        "普通小游戏性能优化",
+        "性能调优工具",
+        "使用 Unity Profiler 进行性能调优"
+      ]
+    },
+    {
+      "title": "安全指引",
+      "path": "/zh-CN/mini-game/develop/guide/safety-guide-dir",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/safety-guide-dir",
+      "group": [
+        "安全指引"
+      ]
+    },
+    {
+      "title": "安全指引",
+      "path": "/zh-CN/mini-game/develop/guide/safety-guide-dir/safety-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/safety-guide-dir/safety-guide",
+      "group": [
+        "安全指引",
+        "安全指引"
+      ]
+    },
+    {
+      "title": "代码加固",
+      "path": "/zh-CN/mini-game/develop/guide/safety-guide-dir/code-reinforcement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/safety-guide-dir/code-reinforcement",
+      "group": [
+        "安全指引",
+        "代码加固"
+      ]
+    },
+    {
+      "title": "代码混淆",
+      "path": "/zh-CN/mini-game/develop/guide/safety-guide-dir/code-reinforcement/code-obfuscation",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/safety-guide-dir/code-reinforcement/code-obfuscation",
+      "group": [
+        "安全指引",
+        "代码加固",
+        "代码混淆"
+      ]
+    }
+  ]
+}

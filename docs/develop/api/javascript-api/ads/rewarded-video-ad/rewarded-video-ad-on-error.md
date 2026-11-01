@@ -1,0 +1,63 @@
+---
+title: "RewardedVideoAd.onError"
+source: https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/api/javascript-api/ads/rewarded-video-ad/rewarded-video-ad-on-error
+update_time: 2024-07-24
+---
+
+## 错误码详情
+
+| 值 | 异常 | 说明 | 解决方案 |
+| --- | --- | --- | --- |
+| 1000 | 后端错误调用失败 | 该项错误不是开发者的异常情况 | 一般情况下忽略一段时间即可恢复 |
+| 1001 | 参数错误 | 使用方法错误 | 查看 api 文档 |
+| 1002 | 广告单元无效 | 可能是拼写错误、或者误用了其他 APP 的广告 ID |  |
+| 1003 | 内部错误 | 该项错误不是开发者的异常情况 | 一般情况下忽略一段时间即可恢复 |
+| 1004 | 无适合的广告 | 广告不是每一次都会出现，这次没有出现可能是由于该用户不适合浏览广告 | 属于正常情况，且开发者需要针对这种情况做形态上的兼容。 |
+| 1005 | 广告组件审核中 | 广告正在被审核，无法展现广告 |  |
+| 1006 | 广告组件被驳回 | 广告审核失败，无法展现广告 |  |
+| 1007 | 广告能力被禁用 | 广告能力已经被封禁，封禁期间无法展现广告 |  |
+| 1008 | 广告单元已关闭 | 该广告位的广告能力已经被关闭 |  |
+| 20002 | 不支持 banner 广告 API | 该 APP 暂不支持 banner 广告 | 检测对应的应用(appName)进行兼容，抖音暂不支持 banner 广告 |
+| 120002 | 广告发送的次数已达当日上限 | 一般第二天会恢复 |  |
+
+##
+
+## 语法
+
+```js
+RewardedVideoAd.onError(callback)
+```
+基础库 1.3.0 开始支持本方法，这是一个**同步**方法。
+绑定 error 事件的监听器。 广告组件拉取广告素材和其他情况下如果发生错误，会触发 error 事件的监听器。
+
+## 示例代码
+```js
+const videoAd = tt.createRewardedVideoAd({
+  adUnitId: "YOUR_UNIT",
+});
+
+function listener() {
+  console.log('error emit')
+}
+
+videoAd.onError(listener);
+
+//不需要的时候
+videoAd.offError(listener);
+```
+
+## 参数
+| 属性名 | 类型 | 必填 | 默认值 | 最低版本 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| callback | Function | 是 |  | 1.3.0 | error 事件的监听器  **对象字段** - **input**（Object）：object类型参数，属性如下： |
+
+## 错误码
+| 错误码 | 错误信息 | 处理建议 | 版本 |
+| --- | --- | --- | --- |
+| 20000 | internal error |  |  |
+
+## 授权要求
+无需开发者授权；无需用户授权
+
+## 支持平台
+iOS、Android

@@ -1,0 +1,23 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/basic-library/update-log",
+  "chapter_title": "最近更新",
+  "page_count": 2,
+  "pages": [
+    {
+      "title": "更新日志",
+      "path": "/zh-CN/mini-game/develop/basic-library/update-log",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/basic-library/update-log",
+      "group": [
+        "更新日志"
+      ]
+    },
+    {
+      "title": "兼容性说明",
+      "path": "/zh-CN/mini-game/develop/basic-library/compatibility-description",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/basic-library/compatibility-description",
+      "group": [
+        "兼容性说明"
+      ]
+    }
+  ]
+}

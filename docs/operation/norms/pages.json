@@ -1,0 +1,167 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/introduction",
+  "chapter_title": "运营规范",
+  "page_count": 20,
+  "pages": [
+    {
+      "title": "介绍",
+      "path": "/zh-CN/mini-game/operation1/norms/introduction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/introduction",
+      "group": [
+        "介绍"
+      ]
+    },
+    {
+      "title": "小游戏审核规范",
+      "path": "/zh-CN/mini-game/operation1/norms/standard",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/standard",
+      "group": [
+        "小游戏审核规范"
+      ]
+    },
+    {
+      "title": "小游戏基础信息审核规范",
+      "path": "/zh-CN/mini-game/operation1/norms/game-info-audit",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/game-info-audit",
+      "group": [
+        "小游戏基础信息审核规范"
+      ]
+    },
+    {
+      "title": "小游戏备案审核规范",
+      "path": "/zh-CN/mini-game/operation1/norms/game-record-spec",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/game-record-spec",
+      "group": [
+        "小游戏备案审核规范"
+      ]
+    },
+    {
+      "title": "小游戏锚点视频运营管理规范",
+      "path": "/zh-CN/mini-game/operation1/norms/anchor",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/anchor",
+      "group": [
+        "小游戏锚点视频运营管理规范"
+      ]
+    },
+    {
+      "title": "违规页面功能使用指南",
+      "path": "/zh-CN/mini-game/operation1/norms/page-feature-uses-illegal-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/page-feature-uses-illegal-guide",
+      "group": [
+        "违规页面功能使用指南"
+      ]
+    },
+    {
+      "title": "小游戏适龄提示分段表",
+      "path": "/zh-CN/mini-game/operation1/norms/right-age",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/right-age",
+      "group": [
+        "小游戏适龄提示分段表"
+      ]
+    },
+    {
+      "title": "小游戏自审自查事项",
+      "path": "/zh-CN/mini-game/operation1/norms/specifications",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/specifications",
+      "group": [
+        "小游戏自审自查事项"
+      ]
+    },
+    {
+      "title": "小游戏自审标准",
+      "path": "/zh-CN/mini-game/operation1/norms/standards",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/standards",
+      "group": [
+        "小游戏自审标准"
+      ]
+    },
+    {
+      "title": "广告小游戏运营规范",
+      "path": "/zh-CN/mini-game/operation1/norms/norms",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/norms",
+      "group": [
+        "广告小游戏运营规范"
+      ]
+    },
+    {
+      "title": "内购小游戏运营规范",
+      "path": "/zh-CN/mini-game/operation1/norms/in-game-operation-norms",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/in-game-operation-norms",
+      "group": [
+        "内购小游戏运营规范"
+      ]
+    },
+    {
+      "title": "小游戏资质规范",
+      "path": "/zh-CN/mini-game/operation1/norms/credential-norms-for-mini-game",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/credential-norms-for-mini-game",
+      "group": [
+        "小游戏资质规范"
+      ]
+    },
+    {
+      "title": "流量推广配置规范",
+      "path": "/zh-CN/mini-game/operation1/norms/promote-spec",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/promote-spec",
+      "group": [
+        "流量推广配置规范"
+      ]
+    },
+    {
+      "title": "小游戏内容规范",
+      "path": "/zh-CN/mini-game/operation1/norms/content-norms-for-mini-game",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/content-norms-for-mini-game",
+      "group": [
+        "小游戏内容规范"
+      ]
+    },
+    {
+      "title": "小游戏行为规范",
+      "path": "/zh-CN/mini-game/operation1/norms/game-rule",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/game-rule",
+      "group": [
+        "小游戏行为规范"
+      ]
+    },
+    {
+      "title": "小游戏主体评级体系说明",
+      "path": "/zh-CN/mini-game/operation1/norms/game-dev-rating-beta",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/game-dev-rating-beta",
+      "group": [
+        "小游戏主体评级体系说明"
+      ]
+    },
+    {
+      "title": "游戏站审核规则",
+      "path": "/zh-CN/mini-game/operation1/norms/game-station-audit",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/game-station-audit",
+      "group": [
+        "游戏站审核规则"
+      ]
+    },
+    {
+      "title": "剪映模板审核规则",
+      "path": "/zh-CN/mini-game/operation1/norms/examine-verify",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/examine-verify",
+      "group": [
+        "剪映模板审核规则"
+      ]
+    },
+    {
+      "title": "合集类游戏货不对板内容指引标准",
+      "path": "/zh-CN/mini-game/operation1/norms/game-content-standard",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/game-content-standard",
+      "group": [
+        "合集类游戏货不对板内容指引标准"
+      ]
+    },
+    {
+      "title": "关于小游戏违规代运营的防骗提醒",
+      "path": "/zh-CN/mini-game/operation1/norms/scam-alert",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/norms/scam-alert",
+      "group": [
+        "关于小游戏违规代运营的防骗提醒"
+      ]
+    }
+  ]
+}

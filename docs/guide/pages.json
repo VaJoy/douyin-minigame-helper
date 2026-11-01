@@ -1,0 +1,656 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/overview",
+  "chapter_title": "快速入门",
+  "page_count": 65,
+  "pages": [
+    {
+      "title": "了解抖音小游戏",
+      "path": "/zh-CN/mini-game/guide/minigame/introduction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/introduction",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "开发小游戏",
+      "path": "/zh-CN/mini-game/guide/minigame/develop",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/develop",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "版本提审指引",
+      "path": "/zh-CN/mini-game/guide/minigame/examineguide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/examineguide",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "发布小游戏",
+      "path": "/zh-CN/mini-game/guide/minigame/release",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/release",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "运营指引",
+      "path": "/zh-CN/mini-game/guide/minigame/operationalguidelines",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/operationalguidelines",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "性能优化",
+      "path": "/zh-CN/mini-game/guide/minigame/optimization",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/optimization",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "中宣部防沉迷实名认证系统渠道绑定指引",
+      "path": "/zh-CN/mini-game/guide/minigame/realnameauthentication",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/realnameauthentication",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "注册与入驻",
+      "path": "/zh-CN/mini-game/guide/minigame/register",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/register",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "创建与信息完善",
+      "path": "/zh-CN/mini-game/guide/minigame/improve-information",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/improve-information",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "小游戏备案申报",
+      "path": "/zh-CN/mini-game/guide/minigame/game-filing-application-works",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/game-filing-application-works",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "必接能力",
+      "path": "/zh-CN/mini-game/guide/minigame/essential-skills",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/essential-skills",
+      "group": [
+        "快速入门",
+        "小游戏接入指南"
+      ]
+    },
+    {
+      "title": "ICP核准指引",
+      "path": "/zh-CN/mini-game/guide/minigame/icp/icp-filings",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/icp/icp-filings",
+      "group": [
+        "快速入门",
+        "小游戏接入指南",
+        "ICP核准"
+      ]
+    },
+    {
+      "title": "ICP 备案变更及注销",
+      "path": "/zh-CN/mini-game/guide/minigame/icp/icp-change",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/icp/icp-change",
+      "group": [
+        "快速入门",
+        "小游戏接入指南",
+        "ICP核准"
+      ]
+    },
+    {
+      "title": "地区特殊规则",
+      "path": "/zh-CN/mini-game/guide/minigame/icp/regional-special-rules",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/icp/regional-special-rules",
+      "group": [
+        "快速入门",
+        "小游戏接入指南",
+        "ICP核准"
+      ]
+    },
+    {
+      "title": "前置审批说明",
+      "path": "/zh-CN/mini-game/guide/minigame/icp/pre-approval-instructions",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/icp/pre-approval-instructions",
+      "group": [
+        "快速入门",
+        "小游戏接入指南",
+        "ICP核准"
+      ]
+    },
+    {
+      "title": "问题反馈渠道",
+      "path": "/zh-CN/mini-game/guide/contactus/feedbacks",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/feedbacks",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "侵权投诉与不侵权申诉指引",
+      "path": "/zh-CN/mini-game/guide/contactus/infringement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/infringement",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "主体工商变更申请",
+      "path": "/zh-CN/mini-game/guide/contactus/complaints",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/complaints",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "小游戏审核常见问题-广告篇",
+      "path": "/zh-CN/mini-game/guide/contactus/ad",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/ad",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "小游戏审核常见问题-录屏及分享",
+      "path": "/zh-CN/mini-game/guide/contactus/record-share",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/record-share",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "小游戏审核常见问题-游戏逻辑篇",
+      "path": "/zh-CN/mini-game/guide/contactus/minigame",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/minigame",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "小游戏审核常见问题-交互与文案篇",
+      "path": "/zh-CN/mini-game/guide/contactus/UI",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/UI",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "小游戏审核常见问题-资质篇",
+      "path": "/zh-CN/mini-game/guide/contactus/endowments",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/endowments",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "小游戏审核常见问题-适龄篇",
+      "path": "/zh-CN/mini-game/guide/contactus/age",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/age",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "账号找回与换绑",
+      "path": "/zh-CN/mini-game/guide/contactus/change-binding",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/change-binding",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "小游戏审核常见问题-安全侵权篇",
+      "path": "/zh-CN/mini-game/guide/contactus/security-infringement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/security-infringement",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "2025年6月~2025年10月小游戏广告收入限时活动规则",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/game-ad-incentive",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/game-ad-incentive",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "2024年7月~2025年5月小游戏广告收入限时激励活动规则",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/game-ad-rules",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/game-ad-rules",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "2025年3月~2025年5月小游戏任务金限时激励活动规则",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/game-task-rules",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/game-task-rules",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "2025年5月小游戏内购收入结算规则说明",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/2025-game-billing",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/2025-game-billing",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "2025年6月~2025年10月小游戏任务金限时激励活动规则",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/2025-game-reward-rules",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/2025-game-reward-rules",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "2025年6月~2026年10月小游戏内购收入结算规则说明",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/settlement-202506-202610",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/settlement-202506-202610",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "2025年6月~2026年10月小游戏减免版内购收益政策说明",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/iap-revenue-fee-reduction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/iap-revenue-fee-reduction",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "2025年11月~2026年10月的小游戏任务金限时激励活动规则",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/task-fund-rules-202611",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/task-fund-rules-202611",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "2025年11月~2026年10月小游戏投放金限时激励活动规则",
+      "path": "/zh-CN/mini-game/guide/contactus/game-settlement-policy/delivery-fund-incentive-rules",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/game-settlement-policy/delivery-fund-incentive-rules",
+      "group": [
+        "快速入门",
+        "常见问题",
+        "小游戏历史结算政策说明"
+      ]
+    },
+    {
+      "title": "ICP核准高频FAQ",
+      "path": "/zh-CN/mini-game/guide/contactus/icp-faq",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/contactus/icp-faq",
+      "group": [
+        "快速入门",
+        "常见问题"
+      ]
+    },
+    {
+      "title": "抖音小游戏入门指南",
+      "path": "/zh-CN/mini-game/guide/overview",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/overview",
+      "group": [
+        "快速入门"
+      ]
+    },
+    {
+      "title": "简介",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/pub/introduction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/pub/introduction",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "巨量星图x游戏发行人计划"
+      ]
+    },
+    {
+      "title": "开放平台下单指南",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/pub/minigame",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/pub/minigame",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "巨量星图x游戏发行人计划"
+      ]
+    },
+    {
+      "title": "审核规范",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/pub/examine-verify",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/pub/examine-verify",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "巨量星图x游戏发行人计划"
+      ]
+    },
+    {
+      "title": "出价原理",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/pub/suggested-bid",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/pub/suggested-bid",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "巨量星图x游戏发行人计划"
+      ]
+    },
+    {
+      "title": "数据结算说明",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/pub/task-data",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/pub/task-data",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "巨量星图x游戏发行人计划"
+      ]
+    },
+    {
+      "title": "运营规范",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/pub/operation-standard",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/pub/operation-standard",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "巨量星图x游戏发行人计划"
+      ]
+    },
+    {
+      "title": "小游戏厂商配置公会CPS收益能力指引",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/pub/guidelinesformini-gamedevelopersonconfiguringguildcpsrevenuecapabilities",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/pub/guidelinesformini-gamedevelopersonconfiguringguildcpsrevenuecapabilities",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "巨量星图x游戏发行人计划"
+      ]
+    },
+    {
+      "title": "投放指南",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/miniapk/guidelines",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/miniapk/guidelines",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "小游戏 x 巨量引擎信息流投放"
+      ]
+    },
+    {
+      "title": "获取投放数据",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/miniapk/date",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/miniapk/date",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "小游戏 x 巨量引擎信息流投放"
+      ]
+    },
+    {
+      "title": "小游戏信息流投放金使用指南",
+      "path": "/zh-CN/mini-game/guide/business-guide/advertiser/miniapk/use-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/advertiser/miniapk/use-guide",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "买量推广",
+        "小游戏 x 巨量引擎信息流投放"
+      ]
+    },
+    {
+      "title": "小游戏广告收入结算规则",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/mini-game",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/mini-game",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏内购收入结算规则",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏减免版内购收益政策说明",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay-instructions",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay-instructions",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏任务金限时激励活动规则",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-task-reward-rules",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-task-reward-rules",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏任务金常见问题说明",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/minigame-task-fund-faq",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/minigame-task-fund-faq",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏T+1提现能力开通",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/douyin-game-cashout",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/douyin-game-cashout",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏投放金限时激励活动规则",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/mini-game-ads-rules",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/mini-game-ads-rules",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏结算政策导览",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-settlement-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-settlement-guide",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏2026年7-8月开发者内容激励政策",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/2026mini-gamedeveloperlimited-timecontentincentivepolicyjuly-august",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/2026mini-gamedeveloperlimited-timecontentincentivepolicyjuly-august",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算政策"
+      ]
+    },
+    {
+      "title": "小游戏结算使用指南",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/introduction/douyin-games-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/introduction/douyin-games-guide",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算指引"
+      ]
+    },
+    {
+      "title": "小游戏对账使用指南",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/introduction/mini-game-reconciliation-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/introduction/mini-game-reconciliation-guide",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "结算指引"
+      ]
+    },
+    {
+      "title": "小规模纳税人税率政策调整公示",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/tax-rate-adjustment/announcement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/tax-rate-adjustment/announcement",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算",
+        "关于小规模纳税人税率政策调整"
+      ]
+    },
+    {
+      "title": "未成年人退款功能使用指南",
+      "path": "/zh-CN/mini-game/guide/business-guide/revenue/refund",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/refund",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "收入结算"
+      ]
+    },
+    {
+      "title": "钻石兑换功能",
+      "path": "/zh-CN/mini-game/guide/business-guide/virtual-payment/diamonds",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/virtual-payment/diamonds",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "虚拟支付"
+      ]
+    },
+    {
+      "title": "接入指引",
+      "path": "/zh-CN/mini-game/guide/business-guide/virtual-payment/guaranteed-payment/guidelines",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/virtual-payment/guaranteed-payment/guidelines",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "虚拟支付",
+        "虚拟支付2.0"
+      ]
+    },
+    {
+      "title": "钻石小额直付",
+      "path": "/zh-CN/mini-game/guide/business-guide/virtual-payment/diamond-pay",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/virtual-payment/diamond-pay",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "虚拟支付"
+      ]
+    },
+    {
+      "title": "小额支付",
+      "path": "/zh-CN/mini-game/guide/business-guide/virtual-payment/small-payment-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/virtual-payment/small-payment-guide",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "虚拟支付"
+      ]
+    },
+    {
+      "title": "接入指引",
+      "path": "/zh-CN/mini-game/guide/business-guide/virtual-payment/wallet-apple-pay/ios-minigame-payment-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/virtual-payment/wallet-apple-pay/ios-minigame-payment-guide",
+      "group": [
+        "快速入门",
+        "商业能力指南",
+        "虚拟支付",
+        "iOS苹果支付"
+      ]
+    }
+  ]
+}

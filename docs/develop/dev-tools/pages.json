@@ -1,0 +1,339 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/mini-app-developer-instrument",
+  "chapter_title": "开发工具",
+  "page_count": 38,
+  "pages": [
+    {
+      "title": "概览",
+      "path": "/zh-CN/mini-game/develop/dev-tools/mini-app-developer-instrument",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/mini-app-developer-instrument",
+      "group": [
+        "概览"
+      ]
+    },
+    {
+      "title": "下载",
+      "path": "/zh-CN/mini-game/develop/dev-tools/developer-instrument-update-and-download",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/developer-instrument-update-and-download",
+      "group": [
+        "下载"
+      ]
+    },
+    {
+      "title": "设置",
+      "path": "/zh-CN/mini-game/develop/dev-tools/settings",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/settings",
+      "group": [
+        "设置"
+      ]
+    },
+    {
+      "title": "外观设置",
+      "path": "/zh-CN/mini-game/develop/dev-tools/settings/appearance-setup",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/settings/appearance-setup",
+      "group": [
+        "设置",
+        "外观设置"
+      ]
+    },
+    {
+      "title": "编辑器设置",
+      "path": "/zh-CN/mini-game/develop/dev-tools/settings/editor-settings",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/settings/editor-settings",
+      "group": [
+        "设置",
+        "编辑器设置"
+      ]
+    },
+    {
+      "title": "调试设置",
+      "path": "/zh-CN/mini-game/develop/dev-tools/settings/debug-settings",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/settings/debug-settings",
+      "group": [
+        "设置",
+        "调试设置"
+      ]
+    },
+    {
+      "title": "快捷键设置",
+      "path": "/zh-CN/mini-game/develop/dev-tools/settings/shortcut-settings",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/settings/shortcut-settings",
+      "group": [
+        "设置",
+        "快捷键设置"
+      ]
+    },
+    {
+      "title": "代理设置",
+      "path": "/zh-CN/mini-game/develop/dev-tools/settings/proxy-setup",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/settings/proxy-setup",
+      "group": [
+        "设置",
+        "代理设置"
+      ]
+    },
+    {
+      "title": "通用设置",
+      "path": "/zh-CN/mini-game/develop/dev-tools/settings/common",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/settings/common",
+      "group": [
+        "设置",
+        "通用设置"
+      ]
+    },
+    {
+      "title": "Lite模式",
+      "path": "/zh-CN/mini-game/develop/dev-tools/lite-mode",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/lite-mode",
+      "group": [
+        "Lite模式"
+      ]
+    },
+    {
+      "title": "代码编辑",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-edit",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-edit",
+      "group": [
+        "代码编辑"
+      ]
+    },
+    {
+      "title": "文件",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-edit/file",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-edit/file",
+      "group": [
+        "代码编辑",
+        "文件"
+      ]
+    },
+    {
+      "title": "自动补全",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-edit/auto-complete",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-edit/auto-complete",
+      "group": [
+        "代码编辑",
+        "自动补全"
+      ]
+    },
+    {
+      "title": "TypeScript 支持",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-edit/typescript-support",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-edit/typescript-support",
+      "group": [
+        "代码编辑",
+        "TypeScript 支持"
+      ]
+    },
+    {
+      "title": "Git 状态展示",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-edit/git-status",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-edit/git-status",
+      "group": [
+        "代码编辑",
+        "Git 状态展示"
+      ]
+    },
+    {
+      "title": "项目配置文件",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-edit/project-config",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-edit/project-config",
+      "group": [
+        "代码编辑",
+        "项目配置文件"
+      ]
+    },
+    {
+      "title": "编辑器扩展",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-edit/editor-ext",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-edit/editor-ext",
+      "group": [
+        "代码编辑",
+        "编辑器扩展"
+      ]
+    },
+    {
+      "title": "代码编译",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-compile",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-compile",
+      "group": [
+        "代码编译"
+      ]
+    },
+    {
+      "title": "自定义编译条件",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-compile/custom-compile-cond",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-compile/custom-compile-cond",
+      "group": [
+        "代码编译",
+        "自定义编译条件"
+      ]
+    },
+    {
+      "title": "原生语言编译",
+      "path": "/zh-CN/mini-game/develop/dev-tools/code-compile/native-language-compile",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/code-compile/native-language-compile",
+      "group": [
+        "代码编译",
+        "原生语言编译"
+      ]
+    },
+    {
+      "title": "开发辅助",
+      "path": "/zh-CN/mini-game/develop/dev-tools/development-assistance",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/development-assistance",
+      "group": [
+        "开发辅助"
+      ]
+    },
+    {
+      "title": "命令行调用",
+      "path": "/zh-CN/mini-game/develop/dev-tools/development-assistance/ide-cli",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/development-assistance/ide-cli",
+      "group": [
+        "开发辅助",
+        "命令行调用"
+      ]
+    },
+    {
+      "title": "代码片段",
+      "path": "/zh-CN/mini-game/develop/dev-tools/development-assistance/code-section",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/development-assistance/code-section",
+      "group": [
+        "开发辅助",
+        "代码片段"
+      ]
+    },
+    {
+      "title": "Unity小游戏预览调试",
+      "path": "/zh-CN/mini-game/develop/dev-tools/development-assistance/unity-game-preview",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/development-assistance/unity-game-preview",
+      "group": [
+        "开发辅助",
+        "Unity小游戏预览调试"
+      ]
+    },
+    {
+      "title": "Unity Webgl 模拟器",
+      "path": "/zh-CN/mini-game/develop/dev-tools/development-assistance/unity-webgl-simulator",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/development-assistance/unity-webgl-simulator",
+      "group": [
+        "开发辅助",
+        "Unity Webgl 模拟器"
+      ]
+    },
+    {
+      "title": "游戏深度保护",
+      "path": "/zh-CN/mini-game/develop/dev-tools/development-assistance/code-protect",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/development-assistance/code-protect",
+      "group": [
+        "开发辅助",
+        "游戏深度保护"
+      ]
+    },
+    {
+      "title": "版本管理",
+      "path": "/zh-CN/mini-game/develop/dev-tools/development-assistance/version-manage",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/development-assistance/version-manage",
+      "group": [
+        "开发辅助",
+        "版本管理"
+      ]
+    },
+    {
+      "title": "小游戏调试",
+      "path": "/zh-CN/mini-game/develop/dev-tools/game-debug",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/game-debug",
+      "group": [
+        "小游戏调试"
+      ]
+    },
+    {
+      "title": "iOS高性能、高性能+真机调试",
+      "path": "/zh-CN/mini-game/develop/dev-tools/game-debug/ios-debug-performance",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/game-debug/ios-debug-performance",
+      "group": [
+        "小游戏调试",
+        "iOS高性能、高性能+真机调试"
+      ]
+    },
+    {
+      "title": "IDE 调试",
+      "path": "/zh-CN/mini-game/develop/dev-tools/game-debug/ide-debug",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/game-debug/ide-debug",
+      "group": [
+        "小游戏调试",
+        "IDE 调试"
+      ]
+    },
+    {
+      "title": "真机调试",
+      "path": "/zh-CN/mini-game/develop/dev-tools/game-debug/real-machine-adjust",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/game-debug/real-machine-adjust",
+      "group": [
+        "小游戏调试",
+        "真机调试"
+      ]
+    },
+    {
+      "title": "vConsole",
+      "path": "/zh-CN/mini-game/develop/dev-tools/game-debug/v-console",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/game-debug/v-console",
+      "group": [
+        "小游戏调试",
+        "vConsole"
+      ]
+    },
+    {
+      "title": "抖音云本地调试",
+      "path": "/zh-CN/mini-game/develop/dev-tools/game-debug/douyin-cloud-local-debug",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/game-debug/douyin-cloud-local-debug",
+      "group": [
+        "小游戏调试",
+        "抖音云本地调试"
+      ]
+    },
+    {
+      "title": "线上调试彩蛋页",
+      "path": "/zh-CN/mini-game/develop/dev-tools/game-debug/bonus-scene",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/game-debug/bonus-scene",
+      "group": [
+        "小游戏调试",
+        "线上调试彩蛋页"
+      ]
+    },
+    {
+      "title": "抖音云",
+      "path": "/zh-CN/mini-game/develop/dev-tools/dycloud",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/dycloud",
+      "group": [
+        "抖音云"
+      ]
+    },
+    {
+      "title": "抖音云",
+      "path": "/zh-CN/mini-game/develop/dev-tools/dycloud/intro",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/dycloud/intro",
+      "group": [
+        "抖音云",
+        "抖音云"
+      ]
+    },
+    {
+      "title": "火山引擎·AI生态",
+      "path": "/zh-CN/mini-game/develop/dev-tools/volcano-ai",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/volcano-ai",
+      "group": [
+        "火山引擎·AI生态"
+      ]
+    },
+    {
+      "title": "抖音小游戏AI解决方案专区",
+      "path": "/zh-CN/mini-game/develop/dev-tools/volcano-ai/minigame-ai",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/dev-tools/volcano-ai/minigame-ai",
+      "group": [
+        "火山引擎·AI生态",
+        "抖音小游戏AI解决方案专区"
+      ]
+    }
+  ]
+}

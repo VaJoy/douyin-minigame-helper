@@ -1,0 +1,548 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/server-api-introduction",
+  "chapter_title": "服务端OpenAPI",
+  "page_count": 62,
+  "pages": [
+    {
+      "title": "服务端API介绍",
+      "path": "/zh-CN/mini-game/develop/server/server-api-introduction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/server-api-introduction",
+      "group": [
+        "服务端API介绍"
+      ]
+    },
+    {
+      "title": "小游戏 OpenAPI SDK 总览",
+      "path": "/zh-CN/mini-game/develop/server/sdk-overview",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/sdk-overview",
+      "group": [
+        "小游戏 OpenAPI SDK 总览"
+      ]
+    },
+    {
+      "title": "接口调用凭证",
+      "path": "/zh-CN/mini-game/develop/server/interface-request-credential",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/interface-request-credential",
+      "group": [
+        "接口调用凭证"
+      ]
+    },
+    {
+      "title": "getAccessToken",
+      "path": "/zh-CN/mini-game/develop/server/interface-request-credential/get-access-token",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/interface-request-credential/get-access-token",
+      "group": [
+        "接口调用凭证",
+        "getAccessToken"
+      ]
+    },
+    {
+      "title": "genStableAccessToken",
+      "path": "/zh-CN/mini-game/develop/server/interface-request-credential/gen-stable-access-token",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/interface-request-credential/gen-stable-access-token",
+      "group": [
+        "接口调用凭证",
+        "genStableAccessToken"
+      ]
+    },
+    {
+      "title": "登录",
+      "path": "/zh-CN/mini-game/develop/server/log-in",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/log-in",
+      "group": [
+        "登录"
+      ]
+    },
+    {
+      "title": "code2Session",
+      "path": "/zh-CN/mini-game/develop/server/log-in/code-2-session",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/log-in/code-2-session",
+      "group": [
+        "登录",
+        "code2Session"
+      ]
+    },
+    {
+      "title": "用户登录态签名",
+      "path": "/zh-CN/mini-game/develop/server/log-in/user-login-sign",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/log-in/user-login-sign",
+      "group": [
+        "登录",
+        "用户登录态签名"
+      ]
+    },
+    {
+      "title": "checkSessionKey",
+      "path": "/zh-CN/mini-game/develop/server/log-in/check-session-key",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/log-in/check-session-key",
+      "group": [
+        "登录",
+        "checkSessionKey"
+      ]
+    },
+    {
+      "title": "resetSessionKey",
+      "path": "/zh-CN/mini-game/develop/server/log-in/reset-session-key",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/log-in/reset-session-key",
+      "group": [
+        "登录",
+        "resetSessionKey"
+      ]
+    },
+    {
+      "title": "开放数据",
+      "path": "/zh-CN/mini-game/develop/server/data-caching",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/data-caching",
+      "group": [
+        "开放数据"
+      ]
+    },
+    {
+      "title": "setUserStorage",
+      "path": "/zh-CN/mini-game/develop/server/data-caching/set-user-storage",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/data-caching/set-user-storage",
+      "group": [
+        "开放数据",
+        "setUserStorage"
+      ]
+    },
+    {
+      "title": "removeUserStorage",
+      "path": "/zh-CN/mini-game/develop/server/data-caching/remove-user-storage",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/data-caching/remove-user-storage",
+      "group": [
+        "开放数据",
+        "removeUserStorage"
+      ]
+    },
+    {
+      "title": "二维码",
+      "path": "/zh-CN/mini-game/develop/server/qr-code",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/qr-code",
+      "group": [
+        "二维码"
+      ]
+    },
+    {
+      "title": "createQRCode",
+      "path": "/zh-CN/mini-game/develop/server/qr-code/create-qr-code",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/qr-code/create-qr-code",
+      "group": [
+        "二维码",
+        "createQRCode"
+      ]
+    },
+    {
+      "title": "订阅消息",
+      "path": "/zh-CN/mini-game/develop/server/notify",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/notify",
+      "group": [
+        "订阅消息"
+      ]
+    },
+    {
+      "title": "消息推送客服",
+      "path": "/zh-CN/mini-game/develop/server/message-push-customer-service",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/message-push-customer-service",
+      "group": [
+        "消息推送客服"
+      ]
+    },
+    {
+      "title": "游戏礼包",
+      "path": "/zh-CN/mini-game/develop/server/receive-reward",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/receive-reward",
+      "group": [
+        "游戏礼包"
+      ]
+    },
+    {
+      "title": "游戏内容安全",
+      "path": "/zh-CN/mini-game/develop/server/content-safety",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/content-safety",
+      "group": [
+        "游戏内容安全"
+      ]
+    },
+    {
+      "title": "内容安全检测",
+      "path": "/zh-CN/mini-game/develop/server/content-safety/content-safety-check",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/content-safety/content-safety-check",
+      "group": [
+        "游戏内容安全",
+        "内容安全检测"
+      ]
+    },
+    {
+      "title": "图片检测",
+      "path": "/zh-CN/mini-game/develop/server/content-safety/image-detection",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/content-safety/image-detection",
+      "group": [
+        "游戏内容安全",
+        "图片检测"
+      ]
+    },
+    {
+      "title": "推荐流直出游戏能力",
+      "path": "/zh-CN/mini-game/develop/server/feed-game",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/feed-game",
+      "group": [
+        "推荐流直出游戏能力"
+      ]
+    },
+    {
+      "title": "推荐流直出游戏能力签名计算方式",
+      "path": "/zh-CN/mini-game/develop/server/feed-game/signature",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/feed-game/signature",
+      "group": [
+        "推荐流直出游戏能力",
+        "推荐流直出游戏能力签名计算方式"
+      ]
+    },
+    {
+      "title": "推荐流直出游戏能力SPI接入文档",
+      "path": "/zh-CN/mini-game/develop/server/feed-game/open-api",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/feed-game/open-api",
+      "group": [
+        "推荐流直出游戏能力",
+        "推荐流直出游戏能力SPI接入文档"
+      ]
+    },
+    {
+      "title": "推荐流直出游戏能力接入FAQ",
+      "path": "/zh-CN/mini-game/develop/server/feed-game/feed-game-faq",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/feed-game/feed-game-faq",
+      "group": [
+        "推荐流直出游戏能力",
+        "推荐流直出游戏能力接入FAQ"
+      ]
+    },
+    {
+      "title": "社交互动能力",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction",
+      "group": [
+        "社交互动能力"
+      ]
+    },
+    {
+      "title": "组队分享能力",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction/team-share-ability",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction/team-share-ability",
+      "group": [
+        "社交互动能力",
+        "组队分享能力"
+      ]
+    },
+    {
+      "title": "生成活动ID",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction/team-share-ability/create-activity-id",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction/team-share-ability/create-activity-id",
+      "group": [
+        "社交互动能力",
+        "组队分享能力",
+        "生成活动ID"
+      ]
+    },
+    {
+      "title": "更\u0000\u0000新动态消息",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction/team-share-ability/update-dynamic-message",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction/team-share-ability/update-dynamic-message",
+      "group": [
+        "社交互动能力",
+        "组队分享能力",
+        "更\u0000\u0000新动态消息"
+      ]
+    },
+    {
+      "title": "公会群能力",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction/guild-group-ability",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction/guild-group-ability",
+      "group": [
+        "社交互动能力",
+        "公会群能力"
+      ]
+    },
+    {
+      "title": "公会群解绑",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction/guild-group-ability/unbind-group",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction/guild-group-ability/unbind-group",
+      "group": [
+        "社交互动能力",
+        "公会群能力",
+        "公会群解绑"
+      ]
+    },
+    {
+      "title": "群标签能力",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction/group-label-ability",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction/group-label-ability",
+      "group": [
+        "社交互动能力",
+        "群标签能力"
+      ]
+    },
+    {
+      "title": "设置用户群标签",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction/group-label-ability/set-user-tags",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction/group-label-ability/set-user-tags",
+      "group": [
+        "社交互动能力",
+        "群标签能力",
+        "设置用户群标签"
+      ]
+    },
+    {
+      "title": "查询用户群标签",
+      "path": "/zh-CN/mini-game/develop/server/social-interaction/group-label-ability/get-user-group-tag",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/social-interaction/group-label-ability/get-user-group-tag",
+      "group": [
+        "社交互动能力",
+        "群标签能力",
+        "查询用户群标签"
+      ]
+    },
+    {
+      "title": "动态分享",
+      "path": "/zh-CN/mini-game/develop/server/dynamic-sharing",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/dynamic-sharing",
+      "group": [
+        "动态分享"
+      ]
+    },
+    {
+      "title": "生成活动ID",
+      "path": "/zh-CN/mini-game/develop/server/dynamic-sharing/create-activity-id",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/dynamic-sharing/create-activity-id",
+      "group": [
+        "动态分享",
+        "生成活动ID"
+      ]
+    },
+    {
+      "title": "更新动态消息",
+      "path": "/zh-CN/mini-game/develop/server/dynamic-sharing/update-dynamic-message",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/dynamic-sharing/update-dynamic-message",
+      "group": [
+        "动态分享",
+        "更新动态消息"
+      ]
+    },
+    {
+      "title": "消息推送",
+      "path": "/zh-CN/mini-game/develop/server/message-push",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/message-push",
+      "group": [
+        "消息推送"
+      ]
+    },
+    {
+      "title": "消息推送配置接入指引",
+      "path": "/zh-CN/mini-game/develop/server/message-push/msg-push-config-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/message-push/msg-push-config-guide",
+      "group": [
+        "消息推送",
+        "消息推送配置接入指引"
+      ]
+    },
+    {
+      "title": "抖音客服平台-客服能力消息推送接入指引",
+      "path": "/zh-CN/mini-game/develop/server/message-push/douyin-microgame-im-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/message-push/douyin-microgame-im-guide",
+      "group": [
+        "消息推送",
+        "抖音客服平台-客服能力消息推送接入指引"
+      ]
+    },
+    {
+      "title": "抖音客服平台-客服能力",
+      "path": "/zh-CN/mini-game/develop/server/douyin-microgame-im",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/douyin-microgame-im",
+      "group": [
+        "抖音客服平台-客服能力"
+      ]
+    },
+    {
+      "title": "回复文字格式的客服消息",
+      "path": "/zh-CN/mini-game/develop/server/douyin-microgame-im/reply-user-text",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/douyin-microgame-im/reply-user-text",
+      "group": [
+        "抖音客服平台-客服能力",
+        "回复文字格式的客服消息"
+      ]
+    },
+    {
+      "title": "回复图片格式的客服消息",
+      "path": "/zh-CN/mini-game/develop/server/douyin-microgame-im/reply-user-image",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/douyin-microgame-im/reply-user-image",
+      "group": [
+        "抖音客服平台-客服能力",
+        "回复图片格式的客服消息"
+      ]
+    },
+    {
+      "title": "Link链接",
+      "path": "/zh-CN/mini-game/develop/server/link",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/link",
+      "group": [
+        "Link链接"
+      ]
+    },
+    {
+      "title": "生成Link",
+      "path": "/zh-CN/mini-game/develop/server/link/generate-link",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/link/generate-link",
+      "group": [
+        "Link链接",
+        "生成Link"
+      ]
+    },
+    {
+      "title": "查询Link",
+      "path": "/zh-CN/mini-game/develop/server/link/query-link-info",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/link/query-link-info",
+      "group": [
+        "Link链接",
+        "查询Link"
+      ]
+    },
+    {
+      "title": "查询Link配额",
+      "path": "/zh-CN/mini-game/develop/server/link/query-link-quota",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/link/query-link-quota",
+      "group": [
+        "Link链接",
+        "查询Link配额"
+      ]
+    },
+    {
+      "title": "Schema\u0000\u0000链接",
+      "path": "/zh-CN/mini-game/develop/server/schema",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/schema",
+      "group": [
+        "Schema\u0000\u0000链接"
+      ]
+    },
+    {
+      "title": "生成Schema",
+      "path": "/zh-CN/mini-game/develop/server/schema/generate-schema",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/schema/generate-schema",
+      "group": [
+        "Schema\u0000\u0000链接",
+        "生成Schema"
+      ]
+    },
+    {
+      "title": "查询Schema",
+      "path": "/zh-CN/mini-game/develop/server/schema/query-schema-info",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/schema/query-schema-info",
+      "group": [
+        "Schema\u0000\u0000链接",
+        "查询Schema"
+      ]
+    },
+    {
+      "title": "查询Schema配额",
+      "path": "/zh-CN/mini-game/develop/server/schema/query-schema-quota",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/schema/query-schema-quota",
+      "group": [
+        "Schema\u0000\u0000链接",
+        "查询Schema配额"
+      ]
+    },
+    {
+      "title": "公会群解绑",
+      "path": "/zh-CN/mini-game/develop/server/unbind-group",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/unbind-group",
+      "group": [
+        "公会群解绑"
+      ]
+    },
+    {
+      "title": "游戏群标签能力",
+      "path": "/zh-CN/mini-game/develop/server/game-group-tag",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/game-group-tag",
+      "group": [
+        "游戏群标签能力"
+      ]
+    },
+    {
+      "title": "设置用户群标签",
+      "path": "/zh-CN/mini-game/develop/server/game-group-tag/set-group-tag",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/game-group-tag/set-group-tag",
+      "group": [
+        "游戏群标签能力",
+        "设置用户群标签"
+      ]
+    },
+    {
+      "title": "查询用户群标签",
+      "path": "/zh-CN/mini-game/develop/server/game-group-tag/get-user-group-tag",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/game-group-tag/get-user-group-tag",
+      "group": [
+        "游戏群标签能力",
+        "查询用户群标签"
+      ]
+    },
+    {
+      "title": "上报赛事报名用户",
+      "path": "/zh-CN/mini-game/develop/server/microgame-competition-upload-player",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/microgame-competition-upload-player",
+      "group": [
+        "上报赛事报名用户"
+      ]
+    },
+    {
+      "title": "选手排名上报",
+      "path": "/zh-CN/mini-game/develop/server/microgame-competition-upload-rank",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/microgame-competition-upload-rank",
+      "group": [
+        "选手排名上报"
+      ]
+    },
+    {
+      "title": "广告变现数据开放API",
+      "path": "/zh-CN/mini-game/develop/server/advertising-monetization-data",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/advertising-monetization-data",
+      "group": [
+        "广告变现数据开放API"
+      ]
+    },
+    {
+      "title": "流量主广告数据查询",
+      "path": "/zh-CN/mini-game/develop/server/advertising-monetization-data/traffic-master-advertising-data",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/advertising-monetization-data/traffic-master-advertising-data",
+      "group": [
+        "广告变现数据开放API",
+        "流量主广告数据查询"
+      ]
+    },
+    {
+      "title": "广告金账户余额查询",
+      "path": "/zh-CN/mini-game/develop/server/advertising-monetization-data/ad-balance",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/advertising-monetization-data/ad-balance",
+      "group": [
+        "广告变现数据开放API",
+        "广告金账户余额查询"
+      ]
+    },
+    {
+      "title": "广告金赠送金额查询",
+      "path": "/zh-CN/mini-game/develop/server/advertising-monetization-data/ad-gift",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/advertising-monetization-data/ad-gift",
+      "group": [
+        "广告变现数据开放API",
+        "广告金赠送金额查询"
+      ]
+    },
+    {
+      "title": "广告金转充流水查询",
+      "path": "/zh-CN/mini-game/develop/server/advertising-monetization-data/ad-transfer",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/server/advertising-monetization-data/ad-transfer",
+      "group": [
+        "广告变现数据开放API",
+        "广告金转充流水查询"
+      ]
+    }
+  ]
+}

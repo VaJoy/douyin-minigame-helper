@@ -1,0 +1,217 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/data-intro/intro",
+  "chapter_title": "数据分析",
+  "page_count": 24,
+  "pages": [
+    {
+      "title": "数据基础介绍",
+      "path": "/zh-CN/mini-game/operation1/about-data/data-intro",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/data-intro",
+      "group": [
+        "数据基础介绍"
+      ]
+    },
+    {
+      "title": "数据基础介绍",
+      "path": "/zh-CN/mini-game/operation1/about-data/data-intro/intro",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/data-intro/intro",
+      "group": [
+        "数据基础介绍",
+        "数据基础介绍"
+      ]
+    },
+    {
+      "title": "用户分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/user",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/user",
+      "group": [
+        "用户分析"
+      ]
+    },
+    {
+      "title": "行为分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/user/stay-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/user/stay-analysis",
+      "group": [
+        "用户分析",
+        "行为分析"
+      ]
+    },
+    {
+      "title": "实时分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/user/real-time-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/user/real-time-analysis",
+      "group": [
+        "用户分析",
+        "实时分析"
+      ]
+    },
+    {
+      "title": "留存分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/user/retention-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/user/retention-analysis",
+      "group": [
+        "用户分析",
+        "留存分析"
+      ]
+    },
+    {
+      "title": "来源分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/user/source-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/user/source-analysis",
+      "group": [
+        "用户分析",
+        "来源分析"
+      ]
+    },
+    {
+      "title": "转化分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/user/conversion",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/user/conversion",
+      "group": [
+        "用户分析",
+        "转化分析"
+      ]
+    },
+    {
+      "title": "用户画像",
+      "path": "/zh-CN/mini-game/operation1/about-data/user/portrait-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/user/portrait-analysis",
+      "group": [
+        "用户分析",
+        "用户画像"
+      ]
+    },
+    {
+      "title": "终端分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/user/terminal-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/user/terminal-analysis",
+      "group": [
+        "用户分析",
+        "终端分析"
+      ]
+    },
+    {
+      "title": "增长分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/growth-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/growth-analysis",
+      "group": [
+        "增长分析"
+      ]
+    },
+    {
+      "title": "增长分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/growth-analysis/game-task-rules",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/growth-analysis/game-task-rules",
+      "group": [
+        "增长分析",
+        "增长分析"
+      ]
+    },
+    {
+      "title": "性能分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/performance-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/performance-analysis",
+      "group": [
+        "性能分析"
+      ]
+    },
+    {
+      "title": "启动数据",
+      "path": "/zh-CN/mini-game/operation1/about-data/performance-analysis/startup-data",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/performance-analysis/startup-data",
+      "group": [
+        "性能分析",
+        "启动数据"
+      ]
+    },
+    {
+      "title": "错误监控",
+      "path": "/zh-CN/mini-game/operation1/about-data/performance-analysis/error-monitor",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/performance-analysis/error-monitor",
+      "group": [
+        "性能分析",
+        "错误监控"
+      ]
+    },
+    {
+      "title": "运行性能",
+      "path": "/zh-CN/mini-game/operation1/about-data/performance-analysis/monitor",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/performance-analysis/monitor",
+      "group": [
+        "性能分析",
+        "运行性能"
+      ]
+    },
+    {
+      "title": "网络性能",
+      "path": "/zh-CN/mini-game/operation1/about-data/performance-analysis/network-monitoring",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/performance-analysis/network-monitoring",
+      "group": [
+        "性能分析",
+        "网络性能"
+      ]
+    },
+    {
+      "title": "自定义分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/advanced-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/advanced-analysis",
+      "group": [
+        "自定义分析"
+      ]
+    },
+    {
+      "title": "事件管理",
+      "path": "/zh-CN/mini-game/operation1/about-data/advanced-analysis/events",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/advanced-analysis/events",
+      "group": [
+        "自定义分析",
+        "事件管理"
+      ]
+    },
+    {
+      "title": "事件分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/advanced-analysis/analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/advanced-analysis/analysis",
+      "group": [
+        "自定义分析",
+        "事件分析"
+      ]
+    },
+    {
+      "title": "漏斗分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/advanced-analysis/funnel-analysis",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/advanced-analysis/funnel-analysis",
+      "group": [
+        "自定义分析",
+        "漏斗分析"
+      ]
+    },
+    {
+      "title": "火山引擎增长分析",
+      "path": "/zh-CN/mini-game/operation1/about-data/advanced-analysis/volcengine",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/advanced-analysis/volcengine",
+      "group": [
+        "自定义分析",
+        "火山引擎增长分析"
+      ]
+    },
+    {
+      "title": "小游戏数据助手",
+      "path": "/zh-CN/mini-game/operation1/about-data/game-data-helper",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/game-data-helper",
+      "group": [
+        "小游戏数据助手"
+      ]
+    },
+    {
+      "title": "小游戏数据助手",
+      "path": "/zh-CN/mini-game/operation1/about-data/game-data-helper/data-assistant",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/about-data/game-data-helper/data-assistant",
+      "group": [
+        "小游戏数据助手",
+        "小游戏数据助手"
+      ]
+    }
+  ]
+}

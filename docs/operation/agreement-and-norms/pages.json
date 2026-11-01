@@ -1,0 +1,213 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/agreement",
+  "chapter_title": "服务协议",
+  "page_count": 23,
+  "pages": [
+    {
+      "title": "小游戏开发者平台服务协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/agreement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/agreement",
+      "group": [
+        "小游戏开发者平台服务协议"
+      ]
+    },
+    {
+      "title": "小游戏开发者平台信息保护声明",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/privacy-policy",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/privacy-policy",
+      "group": [
+        "小游戏开发者平台信息保护声明"
+      ]
+    },
+    {
+      "title": "游戏推广",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion",
+      "group": [
+        "游戏推广"
+      ]
+    },
+    {
+      "title": "小游戏平台星图-游戏发行人计划服务协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion/purchase",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion/purchase",
+      "group": [
+        "游戏推广",
+        "小游戏平台星图-游戏发行人计划服务协议"
+      ]
+    },
+    {
+      "title": "小游戏投放金合作协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion/game-ad-agreement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion/game-ad-agreement",
+      "group": [
+        "游戏推广",
+        "小游戏投放金合作协议"
+      ]
+    },
+    {
+      "title": "小游戏任务金使用须知",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion/mini-game-gold-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion/mini-game-gold-guide",
+      "group": [
+        "游戏推广",
+        "小游戏任务金使用须知"
+      ]
+    },
+    {
+      "title": "商业能力",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity",
+      "group": [
+        "商业能力"
+      ]
+    },
+    {
+      "title": "小游戏广告组件系统服务协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/ad-component-service-agreement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/ad-component-service-agreement",
+      "group": [
+        "商业能力",
+        "小游戏广告组件系统服务协议"
+      ]
+    },
+    {
+      "title": "小游戏虚拟支付升级",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2",
+      "group": [
+        "商业能力",
+        "小游戏虚拟支付升级"
+      ]
+    },
+    {
+      "title": "小游戏虚拟道具支付协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/item-payment",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/item-payment",
+      "group": [
+        "商业能力",
+        "小游戏虚拟支付升级",
+        "小游戏虚拟道具支付协议"
+      ]
+    },
+    {
+      "title": "小游戏担保交易协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/escrow-agreement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/escrow-agreement",
+      "group": [
+        "商业能力",
+        "小游戏虚拟支付升级",
+        "小游戏担保交易协议"
+      ]
+    },
+    {
+      "title": "小游戏安卓端合作协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/android-agreement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/android-agreement",
+      "group": [
+        "商业能力",
+        "小游戏虚拟支付升级",
+        "小游戏安卓端合作协议"
+      ]
+    },
+    {
+      "title": "原小游戏虚拟道具支付",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/virtual-payment",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/virtual-payment",
+      "group": [
+        "商业能力",
+        "原小游戏虚拟道具支付"
+      ]
+    },
+    {
+      "title": "原小游戏虚拟道具支付协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/virtual-payment/protocol-1",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/virtual-payment/protocol-1",
+      "group": [
+        "商业能力",
+        "原小游戏虚拟道具支付",
+        "原小游戏虚拟道具支付协议"
+      ]
+    },
+    {
+      "title": "原小游戏虚拟道具支付协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/virtual-payment/protocol-1/agreement",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/virtual-payment/protocol-1/agreement",
+      "group": [
+        "商业能力",
+        "原小游戏虚拟道具支付",
+        "原小游戏虚拟道具支付协议",
+        "原小游戏虚拟道具支付协议"
+      ]
+    },
+    {
+      "title": "ICP备案",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/icp-record",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/icp-record",
+      "group": [
+        "ICP备案"
+      ]
+    },
+    {
+      "title": "抖音开放平台备案平台服务管理协议",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/icp-record/filings",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/icp-record/filings",
+      "group": [
+        "ICP备案",
+        "抖音开放平台备案平台服务管理协议"
+      ]
+    },
+    {
+      "title": "ICP备案注销须知",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/icp-record/icp-logout",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/icp-record/icp-logout",
+      "group": [
+        "ICP备案",
+        "ICP备案注销须知"
+      ]
+    },
+    {
+      "title": "全端经营 SDK",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/full-platform-operation-sdk",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/full-platform-operation-sdk",
+      "group": [
+        "全端经营 SDK"
+      ]
+    },
+    {
+      "title": "抖音小游戏全端经营SDK隐私声明",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/full-platform-operation-sdk/platform-operation-sdk",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/full-platform-operation-sdk/platform-operation-sdk",
+      "group": [
+        "全端经营 SDK",
+        "抖音小游戏全端经营SDK隐私声明"
+      ]
+    },
+    {
+      "title": "抖音小游戏全端经营SDK 隐私合规指引",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/full-platform-operation-sdk/privacy-compliance-guidelines",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/full-platform-operation-sdk/privacy-compliance-guidelines",
+      "group": [
+        "全端经营 SDK",
+        "抖音小游戏全端经营SDK 隐私合规指引"
+      ]
+    },
+    {
+      "title": "AI服务",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/ai-service",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/ai-service",
+      "group": [
+        "AI服务"
+      ]
+    },
+    {
+      "title": "小游戏平台 CLI 及 Skill 使用须知",
+      "path": "/zh-CN/mini-game/operation1/agreement-and-norms/ai-service/ai-service",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/ai-service/ai-service",
+      "group": [
+        "AI服务",
+        "小游戏平台 CLI 及 Skill 使用须知"
+      ]
+    }
+  ]
+}

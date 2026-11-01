@@ -1,0 +1,21 @@
+---
+title: "小游戏结算政策导览"
+source: https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-settlement-guide
+update_time: 2026-10-30
+---
+
+本导览对应的结算政策自**2026年11月1日**起生效。为鼓励开发者投入内容经营，生效后发行人及星图一口价场景下满足减免版条件的开发者可获得内购结算基数10%的任务金(相较政策更新前+10%）
+> 导览仅为方便开发者快速理解的概括性内容，可能存在更新延迟的情况。结算相关事宜，最终请以各政策文档的具体约定为准
+
+| **分类** |  | **现金结算** [小游戏广告收入结算规则](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/mini-game) [小游戏内购收入结算规则](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay) | **投放金****（限时激励活动）** **2026年11月1日~2026年12月31日期间** [小游戏投放金限时激励活动规则](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/mini-game-ads-rules) | **任务金****（限时激励活动）** **2026年11月1日~2026年12月31日期间** [小游戏任务金限时激励活动规则](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-task-reward-rules) |
+| --- | --- | --- | --- | --- |
+| **广告收入** |  | 投广场景：开发者可获得广告收入**90%**的**现金**收益 非投广场景：开发者可获得广告收入**60%**的现金收益 | 投广场景：开发者可获得相当于广告收入**5%**的**投放金** | 发行人及星图一口价场景：相当于广告收入**20%**的**任务金** 满足[任务金激励规则](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-task-reward-rules)要求的开发者可获得： 投广场景：相当于广告收入**5%**的**任务金** |
+| **内购收入** | **减免版** | 满足[减免版条件](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay-instructions)的开发者可获得： 投广场景：内购结算基数**90%**的**现金**收益 非投广场景：内购结算基数**80%**的**现金**收益 | 满足[减免版条件](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay-instructions)的开发者可获得： 投广场景：相当于内购结算基数**5%**的**投放金** | 满足[减免版条件](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay-instructions)的开发者可获得： 发行人及星图一口价场景：相当于内购结算基数**10%**的**任务金** 满足[减免版条件](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/pay-instructions)，且满足[任务金激励规则](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-task-reward-rules)要求的开发者可获得： 投广场景：相当于内购结算基数 **5%**的**任务金** |
+|  | **一般版** | 开发者可获得内购结算基数60％的现金收益 | 无 | 无 |
+
+- 内购结算基数定义：扣除支付渠道费后的小游戏**内购**消费总额（苹果支付渠道费为12%，此外苹果可能还会基于汇率、税费等原因代扣其他费用，具体以苹果实际结算为准，其他支付场景则目前统一计为1%；为避免疑义，用户核销的平台小游戏优惠券金额不会产生支付渠道费）
+> - “小游戏内购消费总额”查看路径：「抖音开放平台」-「商业化」-「虚拟支付」-「支付数据」-「分成前内购变现收入」，选择归因渠道来源为「发行人」与「星图一口价」可查看发行人及星图一口价场景的小游戏内购消费总额，选择归因渠道来源为「广告」可查看投广场景的小游戏内购消费总额
+> - 说明：支付渠道费并非新增费用类目，[《小游戏虚拟道具支付协议》](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/item-payment)等协议中早已约定该费用从消费总额中扣除。因近期平台新增苹果支付渠道（详见[《小游戏iOS苹果支付接入指引》](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/virtual-payment/wallet-apple-pay/ios-minigame-payment-guide)），其费率与其他渠道不一致，为使规则更清晰、避免误解，对结算政策的表述进行了优化，其他渠道仍按原标准执行。
+- 为配合新上线的结算政策，现已对[《小游戏虚拟道具支付协议》](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/item-payment)、[《小游戏安卓端合作协议》](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/android-agreement)的相关表述进行优化，于2026年11月1日生效。支付渠道、支付渠道费的定义可见[《小游戏虚拟道具支付协议》](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/item-payment)、[《小游戏安卓端合作协议》](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/business-capacity/protocol-2/android-agreement)。
+- 为避免歧义，开发者在PC端的广告和内购收入，适用于[《小游戏结算政策导览》](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-settlement-guide)中的现金结算规则、投放金规则（限时激励活动）、任务金规则（限时激励活动）。接入全端经营的小游戏在APP端的收入所适用的结算规则另行规定。
+- 新政策生效前产生的内购消费保持原结算比例，内购消费的产生时间按支付行为产生的时间算、非结算到账时间。

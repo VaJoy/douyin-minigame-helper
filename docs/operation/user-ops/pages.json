@@ -1,0 +1,284 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/game-management/workbench-function-introduction",
+  "chapter_title": "用户运营",
+  "page_count": 31,
+  "pages": [
+    {
+      "title": "游戏管理",
+      "path": "/zh-CN/mini-game/operation1/user-ops/game-management",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/game-management",
+      "group": [
+        "游戏管理"
+      ]
+    },
+    {
+      "title": "游戏管理工作台功能介绍",
+      "path": "/zh-CN/mini-game/operation1/user-ops/game-management/workbench-function-introduction",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/game-management/workbench-function-introduction",
+      "group": [
+        "游戏管理",
+        "游戏管理工作台功能介绍"
+      ]
+    },
+    {
+      "title": "创意加速器：辅助游戏立项",
+      "path": "/zh-CN/mini-game/operation1/user-ops/game-management/hot-topics",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/game-management/hot-topics",
+      "group": [
+        "游戏管理",
+        "创意加速器：辅助游戏立项"
+      ]
+    },
+    {
+      "title": "AI 插件包：供 AI 全链路协同",
+      "path": "/zh-CN/mini-game/operation1/user-ops/game-management/aipluginpackageforaifullchaincollaboration",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/game-management/aipluginpackageforaifullchaincollaboration",
+      "group": [
+        "游戏管理",
+        "AI 插件包：供 AI 全链路协同"
+      ]
+    },
+    {
+      "title": "用户反馈",
+      "path": "/zh-CN/mini-game/operation1/user-ops/user-service",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/user-service",
+      "group": [
+        "用户反馈"
+      ]
+    },
+    {
+      "title": "用户反馈",
+      "path": "/zh-CN/mini-game/operation1/user-ops/user-service/user-feedback-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/user-service/user-feedback-guide",
+      "group": [
+        "用户反馈",
+        "用户反馈"
+      ]
+    },
+    {
+      "title": "抖音客服平台",
+      "path": "/zh-CN/mini-game/operation1/user-ops/user-service/bytehi-im",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/user-service/bytehi-im",
+      "group": [
+        "用户反馈",
+        "抖音客服平台"
+      ]
+    },
+    {
+      "title": "抖音IM客服",
+      "path": "/zh-CN/mini-game/operation1/user-ops/user-service/douyinIM",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/user-service/douyinIM",
+      "group": [
+        "用户反馈",
+        "抖音IM客服"
+      ]
+    },
+    {
+      "title": "用户获取",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user",
+      "group": [
+        "用户获取"
+      ]
+    },
+    {
+      "title": "新游冷启计划",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/start-up",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/start-up",
+      "group": [
+        "用户获取",
+        "新游冷启计划"
+      ]
+    },
+    {
+      "title": "录屏与分享",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/record-share",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/record-share",
+      "group": [
+        "用户获取",
+        "录屏与分享"
+      ]
+    },
+    {
+      "title": "抖音小游戏录屏带配乐能力",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/record-with-bgm",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/record-with-bgm",
+      "group": [
+        "用户获取",
+        "抖音小游戏录屏带配乐能力"
+      ]
+    },
+    {
+      "title": "录屏添加剪映视频模板能力",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/capcut-with-game",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/capcut-with-game",
+      "group": [
+        "用户获取",
+        "录屏添加剪映视频模板能力"
+      ]
+    },
+    {
+      "title": "小游戏互推资源位能力",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/recommended",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/recommended",
+      "group": [
+        "用户获取",
+        "小游戏互推资源位能力"
+      ]
+    },
+    {
+      "title": "内容转发分享",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/retweet",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/retweet",
+      "group": [
+        "用户获取",
+        "内容转发分享"
+      ]
+    },
+    {
+      "title": "好友邀请组件",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/invite",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/invite",
+      "group": [
+        "用户获取",
+        "好友邀请组件"
+      ]
+    },
+    {
+      "title": "搜索相关资源配置",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/search",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/search",
+      "group": [
+        "用户获取",
+        "搜索相关资源配置"
+      ]
+    },
+    {
+      "title": "iAA经营案例周报",
+      "path": "/zh-CN/mini-game/operation1/user-ops/gain-user/iaa",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/gain-user/iaa",
+      "group": [
+        "用户获取",
+        "iAA经营案例周报"
+      ]
+    },
+    {
+      "title": "用户留存",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention",
+      "group": [
+        "用户留存"
+      ]
+    },
+    {
+      "title": "「必接」侧边栏复访能力",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/sidebar",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/sidebar",
+      "group": [
+        "用户留存",
+        "「必接」侧边栏复访能力"
+      ]
+    },
+    {
+      "title": "订阅消息能力",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/subscribe-message",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/subscribe-message",
+      "group": [
+        "用户留存",
+        "订阅消息能力"
+      ]
+    },
+    {
+      "title": "小游戏抖音版本更新提醒能力",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/reminding",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/reminding",
+      "group": [
+        "用户留存",
+        "小游戏抖音版本更新提醒能力"
+      ]
+    },
+    {
+      "title": "游戏排行榜能力介绍",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/rankintroduce",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/rankintroduce",
+      "group": [
+        "用户留存",
+        "游戏排行榜能力介绍"
+      ]
+    },
+    {
+      "title": "游戏排行榜案例展示",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/billboard-operation-activity",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/billboard-operation-activity",
+      "group": [
+        "用户留存",
+        "游戏排行榜案例展示"
+      ]
+    },
+    {
+      "title": "游戏内关注抖音号能力",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/follow-douyin",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/follow-douyin",
+      "group": [
+        "用户留存",
+        "游戏内关注抖音号能力"
+      ]
+    },
+    {
+      "title": "粉丝群聊能力",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/group",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/group",
+      "group": [
+        "用户留存",
+        "粉丝群聊能力"
+      ]
+    },
+    {
+      "title": "群标签能力接入方案",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/group-label-access",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/group-label-access",
+      "group": [
+        "用户留存",
+        "群标签能力接入方案"
+      ]
+    },
+    {
+      "title": "绑定头条号",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/binding-toutiao-account",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/binding-toutiao-account",
+      "group": [
+        "用户留存",
+        "绑定头条号"
+      ]
+    },
+    {
+      "title": "小游戏站",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/game-site",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/game-site",
+      "group": [
+        "用户留存",
+        "小游戏站"
+      ]
+    },
+    {
+      "title": "「小游戏站」能力接入指引",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/game-site/game-station-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/game-site/game-station-guide",
+      "group": [
+        "用户留存",
+        "小游戏站",
+        "「小游戏站」能力接入指引"
+      ]
+    },
+    {
+      "title": "「小游戏站」运营指南",
+      "path": "/zh-CN/mini-game/operation1/user-ops/-retention/game-site/mini-game-guide",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/user-ops/-retention/game-site/mini-game-guide",
+      "group": [
+        "用户留存",
+        "小游戏站",
+        "「小游戏站」运营指南"
+      ]
+    }
+  ]
+}

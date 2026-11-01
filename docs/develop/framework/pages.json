@@ -1,0 +1,261 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/web-assembly",
+  "chapter_title": "框架",
+  "page_count": 28,
+  "pages": [
+    {
+      "title": "基础功能",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function",
+      "group": [
+        "基础功能"
+      ]
+    },
+    {
+      "title": "TTWebAssembly",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function/web-assembly",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/web-assembly",
+      "group": [
+        "基础功能",
+        "TTWebAssembly"
+      ]
+    },
+    {
+      "title": "console",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function/console",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/console",
+      "group": [
+        "基础功能",
+        "console"
+      ]
+    },
+    {
+      "title": "定时器",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function/timer",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/timer",
+      "group": [
+        "基础功能",
+        "定时器"
+      ]
+    },
+    {
+      "title": "setTimeout",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function/timer/set-timeout",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/timer/set-timeout",
+      "group": [
+        "基础功能",
+        "定时器",
+        "setTimeout"
+      ]
+    },
+    {
+      "title": "setInterval",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function/timer/set-interval",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/timer/set-interval",
+      "group": [
+        "基础功能",
+        "定时器",
+        "setInterval"
+      ]
+    },
+    {
+      "title": "clearTimeout",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function/timer/clear-timeout",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/timer/clear-timeout",
+      "group": [
+        "基础功能",
+        "定时器",
+        "clearTimeout"
+      ]
+    },
+    {
+      "title": "clearInterval",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function/timer/clear-interval",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/timer/clear-interval",
+      "group": [
+        "基础功能",
+        "定时器",
+        "clearInterval"
+      ]
+    },
+    {
+      "title": "tt",
+      "path": "/zh-CN/mini-game/develop/framework/basic-function/tt",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/basic-function/tt",
+      "group": [
+        "基础功能",
+        "tt"
+      ]
+    },
+    {
+      "title": "小游戏配置",
+      "path": "/zh-CN/mini-game/develop/framework/mini-game-configuration",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/mini-game-configuration",
+      "group": [
+        "小游戏配置"
+      ]
+    },
+    {
+      "title": "运行时",
+      "path": "/zh-CN/mini-game/develop/framework/runtime",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime",
+      "group": [
+        "运行时"
+      ]
+    },
+    {
+      "title": "运行环境",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/env",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/env",
+      "group": [
+        "运行时",
+        "运行环境"
+      ]
+    },
+    {
+      "title": "JS 支持情况",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/js-support",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/js-support",
+      "group": [
+        "运行时",
+        "JS 支持情况"
+      ]
+    },
+    {
+      "title": "运行机制",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/running-mechanism",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/running-mechanism",
+      "group": [
+        "运行时",
+        "运行机制"
+      ]
+    },
+    {
+      "title": "更新机制",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/update-mechanism",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/update-mechanism",
+      "group": [
+        "运行时",
+        "更新机制"
+      ]
+    },
+    {
+      "title": "基础库",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/client-lib",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/client-lib",
+      "group": [
+        "运行时",
+        "基础库"
+      ]
+    },
+    {
+      "title": "版本分布",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/client-lib/version",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/client-lib/version",
+      "group": [
+        "运行时",
+        "基础库",
+        "版本分布"
+      ]
+    },
+    {
+      "title": "低版本兼容",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/client-lib/compatibility",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/client-lib/compatibility",
+      "group": [
+        "运行时",
+        "基础库",
+        "低版本兼容"
+      ]
+    },
+    {
+      "title": "调试",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/debug",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/debug",
+      "group": [
+        "运行时",
+        "调试"
+      ]
+    },
+    {
+      "title": "vConsole",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/debug/vconsole",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/debug/vconsole",
+      "group": [
+        "运行时",
+        "调试",
+        "vConsole"
+      ]
+    },
+    {
+      "title": "实时日志",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/debug/real-time-log",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/debug/real-time-log",
+      "group": [
+        "运行时",
+        "调试",
+        "实时日志"
+      ]
+    },
+    {
+      "title": "Adapter",
+      "path": "/zh-CN/mini-game/develop/framework/runtime/adapter",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/runtime/adapter",
+      "group": [
+        "运行时",
+        "Adapter"
+      ]
+    },
+    {
+      "title": "模块化",
+      "path": "/zh-CN/mini-game/develop/framework/modularity",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/modularity",
+      "group": [
+        "模块化"
+      ]
+    },
+    {
+      "title": "require",
+      "path": "/zh-CN/mini-game/develop/framework/modularity/require",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/modularity/require",
+      "group": [
+        "模块化",
+        "require"
+      ]
+    },
+    {
+      "title": "module",
+      "path": "/zh-CN/mini-game/develop/framework/modularity/module",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/modularity/module",
+      "group": [
+        "模块化",
+        "module"
+      ]
+    },
+    {
+      "title": "exports",
+      "path": "/zh-CN/mini-game/develop/framework/modularity/exports",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/modularity/exports",
+      "group": [
+        "模块化",
+        "exports"
+      ]
+    },
+    {
+      "title": "场景值",
+      "path": "/zh-CN/mini-game/develop/framework/scene-value",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/scene-value",
+      "group": [
+        "场景值"
+      ]
+    },
+    {
+      "title": "API 类型声明",
+      "path": "/zh-CN/mini-game/develop/framework/api-type-declaration",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/framework/api-type-declaration",
+      "group": [
+        "API 类型声明"
+      ]
+    }
+  ]
+}

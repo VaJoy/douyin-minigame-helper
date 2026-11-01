@@ -1,0 +1,33 @@
+{
+  "chapter_url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/ability/incentive/guidelines",
+  "chapter_title": "平台能力",
+  "page_count": 3,
+  "pages": [
+    {
+      "title": "激励能力",
+      "path": "/zh-CN/mini-game/operation1/ability/incentive",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/ability/incentive",
+      "group": [
+        "激励能力"
+      ]
+    },
+    {
+      "title": "接入指引",
+      "path": "/zh-CN/mini-game/operation1/ability/incentive/guidelines",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/ability/incentive/guidelines",
+      "group": [
+        "激励能力",
+        "接入指引"
+      ]
+    },
+    {
+      "title": "支付配置",
+      "path": "/zh-CN/mini-game/operation1/ability/incentive/configuration",
+      "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/ability/incentive/configuration",
+      "group": [
+        "激励能力",
+        "支付配置"
+      ]
+    }
+  ]
+}
